@@ -297,16 +297,13 @@ The submission should be in the CVPR format.
 
 <br>
 
+
+<!-- 
 <div class="row">
   <div class="col-xs-12">
     <h2>References</h2>
   </div>
 </div>
-<!-- <div class="row">
-  <div class="col-md-12">
-  TBD
-  </div>
-</div> -->
 
 {:.paper}
 <span>[1] Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models</span>{:.papertitle}  
@@ -388,3 +385,5 @@ The submission should be in the CVPR format.
 <span>B.S. Hua, Q.H. Pham, D.T. Nguyen, M.K. Tran, L.F. Yu, and S.K. Yeung</span>{:.authors}  
 <span>International Conference on 3D Vision (3DV), 2016</span>{:.journal}  
 
+
+-->
