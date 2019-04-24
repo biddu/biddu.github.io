@@ -207,14 +207,11 @@ The submission should be in the CVPR format.
 </div>
 -->
 
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <h2>Accepted Papers</h2>
-  </div>
-</div>
+
 
 <br>
+
+## Accepted Papers 
 <div class="row">
   <div class="col-md-12">
   TBD
