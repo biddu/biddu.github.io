@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "3D Scene Genneration"
-title: "3D Scene Generation"
-categories: cvpr, workshop, computer vision, computer graphics, visual learning, simulation environments, robotics, machine learning, natural language processing, reinforcement learning
+urltitle:  "CVAE 2019"
+title: "CVAE 2019"
+categories: acpr, workshop, computer vision, computer graphics, remote sensing, robotics, machine learning
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
@@ -13,21 +13,23 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>3D Scene Generation</h1></center>
-    <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
+    <center><h1>Computer Vision for Atmospheric Events Analysis (CVAE 2019)</h1></center>
+    <center><h2>ACPR 2019 Workshop, Auckland, New Zealand</h2></center>
     <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> -->
-    <center>Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
+    <center>Time TBA, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
   </div>
 </div>
 
 <hr>
 
+<!-- 
 <div class="row" id="intro">
   <div class="col-md-12">
     <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
     <p> Image credit: [1, 2, 7, 12, 6, 4, 5]</p>
   </div>
 </div>
+-->
 
 <br>
 <div class="row" id="cfp">
@@ -38,13 +40,10 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      People spend a large percentage of their lives indoors---in bedrooms, living rooms, offices, kitchens, and other such spaces---and the demand for virtual versions of these real-world spaces has never been higher. Game developers, VR/AR designers, architects, and interior design firms are all increasingly making use virtual 3D scenes for prototyping and final products. Furthermore, AI/vision/robotics researchers are also turning to virtual environments to train data-hungry models for tasks such as visual navigation, 3D reconstruction, activity recognition, and more.
+      Pattern recognition and computer vision techniques are now extensively used in the realms of remote sensing applications. These techniques assist the remote sensing analysts to understand the various atmospheric events. With the advancement of photogrammetric techniques and imaging technologies (viz. Moderate Resolution Imaging Spectroradiometer MODIS, weather satellite images, ground-based images etc.), it is now possible to effectively analyze the various events in the earth’s atmosphere. Moreover, with the advancement of computing devices and deep learning techniques, it is now increasingly easier to analyze large amounts of heterogeneous data collected from diverse sensors. Techniques from computer vision, machine learning and statistical pattern recognition have been used in a multitude of remote sensing applications: solar energy production, local weather prediction, studying atmospheric aerosols, climate change and modelling etc.
     </p>
     <p>
-      As the vision community turns from passive internet-images-based vision tasks to applications such as the ones listed above, the need for virtual 3D environments becomes critical. The community has recently benefited from large scale datasets of both synthetic 3D environments [13] and reconstructions of real spaces [8, 9, 14, 16], and the development of 3D simulation frameworks for studying embodied agents [3, 10, 11, 15]. While these existing datasets are a valuable resource, they are also finite in size and don't adapt to the needs of different vision tasks. To enable large-scale embodied visual learning in 3D environments, we must go beyond such static datasets and instead pursue the automatic synthesis of novel, task-relevant virtual environments.
-    </p>
-    <p>
-      In this workshop, we aim to bring together researchers working on automatic generation of 3D environments for computer vision research with researchers who are making use of 3D environment data for a variety of computer vision tasks. We define "generation of 3D environments" to include methods that generate 3D scenes from sensory inputs (e.g. images) or from high-level specifications (e.g. "a chic apartment for two people"). Vision tasks that consume such data include automatic scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, and more.
+      This workshop aims to foster collaboration between pattern recognition and remote sensing experts. We intend to address challenging problems impacting our planet, and propose solutions using the quickly-evolving field of computer vision.
     </p>
   </div>
 </div> <br>   
@@ -57,35 +56,47 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Call for papers:</span> We invite extended abstracts for work on tasks related to 3D scene generation or tasks leveraging generated 3D scenes.
-      Paper topics may include but are not limited to:
+      <span style="font-weight:500;">Call for papers:</span> We welcome submissions on the following topics, including but not limited to:
     </p>
     <ul>
-      <li>Generative models for 3D scene synthesis</li>
-      <li>Synthesis of 3D scenes from sensor inputs (e.g., images, videos, or scans)</li>
-      <li>Representations for 3D scenes</li>
-      <li>3D scene understanding based on synthetic 3D scene data</li>
-      <li>Completion of 3D scenes or objects in 3D scenes</li>
-      <li>Learning from real world data for improved models of virtual worlds</li>
-      <li>Use of 3D scenes for simulation targeted to learning in computer vision, robotics, and cognitive science</li>
+      <li>Analysing satellite or airplane images, Moderate Resolution Imaging Spectroradiometer (MODIS) images, ground-based sky camera images etc.</li>
+      <li>Multi-modal analysis of heterogeneous sensor data, multi-sensor fusion</li>
+      <li>Remote sensing scene registration, segmentation, classification, analysis etc.</li>
+      <li>3D reconstruction</li>
+      <li>Deep learning for remote sensing</li>
+      <li>Dataset papers, benchmarking, evaluation metrics etc.</li>
+      <li>Pattern recognition application areas: solar energy, renewables, photovoltaic etc.</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 6 pages excluding references and acknowledgements.
-      The submission should be in the CVPR format.
+      <span style="font-weight:500;">Submission:</span> Paper submission portal will be available soon.
+      <ul>
+      <li>Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.</li>
+      <li>Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).</li>
+      <li>All the papers must be submitted using the provided templates.</li>
+    </ul>      
+    </p>
+
+
+
+  </div>
+</div><br>
+
+
+<!-- 
+The submission should be in the CVPR format.
       Reviewing will be single blind.
       Accepted extended abstracts will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
       We also welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
       Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
       Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
-    </p>
-  </div>
-</div><br>
+-->
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
 </div>
+
 
 <div class="row">
   <div class="col-xs-12">
@@ -117,7 +128,11 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Schedule</h2>
   </div>
+
+  TBD
 </div>
+
+<!-- 
 <div class="row">
   <div class="col-xs-12">
      <table class="table table-striped">
@@ -190,6 +205,7 @@ acknowledgements: ""
     </table>
   </div>
 </div>
+-->
 
 <br>
 <div class="row">
@@ -206,101 +222,8 @@ acknowledgements: ""
 </div>
 
 <br>
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
-  </div>
-</div><br>
 
-<div class="row">
-  <div class="col-md-12">
-    <a href="http://vladlen.info/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://vladlen.info/">Vladlen Koltun</a></b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. Previously, he has been a Senior Research Scientist at Adobe Research and an Assistant Professor at Stanford where his theoretical research was recognized with the National Science Foundation (NSF) CAREER Award (2006) and the Sloan Research Fellowship (2007).
-    </p>
-  </div>
-</div><br>
 
-<div class="row">
-  <div class="col-md-12">
-    <a href="http://www.cs.utexas.edu/users/grauman/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/grauman.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://www.cs.utexas.edu/users/grauman/">Kristen Grauman</a></b> is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist in Facebook AI Research (FAIR).  Her research in computer vision and machine learning focuses on visual recognition and search.  Before joining UT-Austin in 2007, she received her Ph.D. at MIT.  She is an Alfred P. Sloan Research Fellow and Microsoft Research New Faculty Fellow, a recipient of NSF CAREER and ONR Young Investigator awards, the PAMI Young Researcher Award in 2013, the 2013 Computers and Thought Award from the International Joint Conference on Artificial Intelligence (IJCAI), the Presidential Early Career Award for Scientists and Engineers (PECASE) in 2013, and the Helmholtz Prize in 2017. 
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.inf.ethz.ch/personal/marc.pollefeys/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/pollefeys.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.inf.ethz.ch/personal/marc.pollefeys/">Marc Pollefeys</a></b> is a full professor and head of the Institute for Visual Computing of the Dept. of Computer Science of ETH Zurich which he joined in 2007.  He leads the Computer Vision and Geometry lab.  Previously he was with the Dept. of Computer Science of the University of North Carolina at Chapel Hill where he started as an assistant professor in 2002 and became an associate professor in 2005.  Before he was a postdoctoral researcher at the Katholieke Universiteit Leuven in Belgium, where he also received his M.S. and Ph.D. degrees in 1994 and 1999, respectively. His main area of research is computer vision.  One of his main research goals is to develop flexible approaches to capture visual representations of real world objects, scenes and events. Dr. Pollefeys has received several prizes for his research, including a Marr prize, an NSF CAREER award, a Packard Fellowship and a ERC Starting Grant. He is the author or co-author of more than 280 peer-reviewed papers.
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://cs.brown.edu/people/epavlick/index.html"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ellie.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://cs.brown.edu/people/epavlick/index.html">Ellie Pavlick</a></b> is an Assistant Professor of Computer Science at Brown University, and an academic partner with Google AI. She received her PhD in Computer Science from the University of Pennsylvania. She is interested in building better computational models of natural language semantics and pragmatics: how does language work, and how can we get computers to understand it the way humans do?
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.cs.purdue.edu/homes/aliaga/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/aliaga.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.cs.purdue.edu/homes/aliaga/">Daniel Aliaga</a></b> does research primarily in the area of 3D computer graphics but overlaps with computer vision and visualization while also having strong multi-disciplinary collaborations outside of computer science. His research activities are divided into three groups: a) his pioneering work in the multi-disciplinary area of inverse modeling and design; b) his first-of-its-kind work in codifying information into images and surfaces, and c) his compelling work in a visual computing framework including high-quality 3D acquisition methods. Dr. Aliaga’s inverse modeling and design is particularly focused at digital city planning applications that provide innovative “what-if” design tools enabling urban stake holders from cities worldwide to automatically integrate, process, analyze, and visualize the complex interdependencies between the urban form, function, and the natural environment.
-    </p>
-  </div>
-</div><br>
-
-<!-- <div class="row">
-  <div class="col-md-12">
-    <a href="https://www.cse.iitb.ac.in/~sidch/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a></b> is a Senior Research Scientist at Adobe Research, and Assistant Professor (on leave) of Computer Science and Engineering at IIT Bombay. His research focuses on richer tools for designing three-dimensional objects, particularly by novice and casual users, and on related problems in 3D shape understanding, synthesis and reconstruction. He received his PhD from Stanford University, followed by a postdoc at Princeton and a year teaching at Cornell. Apart from basic research, he is also the original author of the commercial 3D modeling package Adobe Fuse.
-    </p>
-  </div>
-</div><br> -->
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="http://graphics.stanford.edu/~adai/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angela.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://graphics.stanford.edu/~adai/">Angela Dai</a></b> is a postdoctoral researcher at the Technical University of Munich.  She received her Ph.D. in Computer Science at Stanford University advised by Pat Hanrahan. Her research focuses on 3D reconstruction and understanding with commodity sensors. She received her Masters degree from Stanford University and her Bachelors degree from Princeton University. She is a recipient of a Stanford Graduate Fellowship.
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://jiajunwu.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jiajun.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://jiajunwu.com/">Jiajun Wu</a></b> is a fifth-year PhD student at MIT, advised by Bill Freeman and Josh Tenenbaum. He received his undergraduate degree from Tsinghua University, working with Zhuowen Tu. He has also spent time at research labs of Microsoft, Facebook, and Baidu. His research has been supported by fellowships from Facebook, Nvidia, Samsung, Baidu, and Adobe. He studies machine perception, reasoning, and its interaction with the physical world, drawing inspiration from human cognition.
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <b>Industry Participants</b>
-    <p>The workshop also features presentations by representatives of the following companies:</p>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://wayfair.com/"><img src="{{ "/static/img/wayfair.png" | prepend:site.baseurl }}"></a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://modsy.com/"><img src="{{ "/static/img/modsy.png" | prepend:site.baseurl }}"></a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://zillow.com/"><img src="{{ "/static/img/zillow.png" | prepend:site.baseurl }}"></a>
-  </div>
-</div><br>
 
 <!--
 <div class="row">
