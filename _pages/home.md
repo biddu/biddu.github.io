@@ -82,11 +82,8 @@ acknowledgements: ""
 
 
 
-<div class="row" id="schedule">
-  <div class="col-xs-12">
-    <h2>Important Dates</h2>
-  </div>
-</div>
+
+## Important Dates 
 
 
 <div class="row">
