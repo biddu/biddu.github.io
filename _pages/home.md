@@ -37,8 +37,13 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Pattern recognition and computer vision techniques are now extensively used in the realms of remote sensing applications. These techniques assist the remote sensing analysts to understand the various atmospheric events. With the advancement of photogrammetric techniques and imaging technologies (viz. Moderate Resolution Imaging Spectroradiometer MODIS, weather satellite images, ground-based images etc.), it is now possible to effectively analyze the various events in the earth’s atmosphere. Moreover, with the advancement of computing devices and deep learning techniques, it is now increasingly easier to analyze large amounts of heterogeneous data collected from diverse sensors. Techniques from computer vision, machine learning and statistical pattern recognition have been used in a multitude of remote sensing applications: solar energy production, local weather prediction, studying atmospheric aerosols, climate change and modelling etc.
+      Pattern recognition and computer vision techniques are now extensively used in the realms of remote sensing applications. These techniques assist the remote sensing analysts to understand the various atmospheric events. With the advancement of photogrammetric techniques and imaging technologies (viz. Moderate Resolution Imaging Spectroradiometer MODIS, weather satellite images, ground-based images etc.), it is now possible to effectively analyze the various events in the earth’s atmosphere. 
     </p>
+	
+    <p>
+      With the advancement of computing devices and deep learning techniques, it is now increasingly easier to analyze large amounts of heterogeneous data collected from diverse sensors. Techniques from computer vision, machine learning and statistical pattern recognition have been used in a multitude of remote sensing applications: solar energy production, local weather prediction, studying atmospheric aerosols, climate change and modelling etc.
+    </p>
+	
     <p>
       This workshop aims to foster collaboration between pattern recognition and remote sensing experts. We intend to address challenging problems impacting our planet, and propose solutions using the quickly-evolving field of computer vision.
     </p>
