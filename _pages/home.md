@@ -302,13 +302,15 @@ acknowledgements: ""
   </div>
 </div><br>
 
-
+<!--
 <div class="row">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
 </div>
+-->
 
+## Organizers 
 <div class="row">
 
   <div class="col-xs-2">
