@@ -216,7 +216,7 @@ acknowledgements: ""
 
   <div class="col-xs-2">
     <a href="https://soumyabrata.dev/">
-      <img class="people-pic" src="{{ "/static/img/people/som.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/SD.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
@@ -226,7 +226,7 @@ acknowledgements: ""
   
   <div class="col-xs-2">
     <a href="https://www.hjavidnia.com/">
-      <img class="people-pic" src="{{ "/static/img/people/hossein.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/HJ.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.hjavidnia.com/">Hossein Javidnia</a>
@@ -236,14 +236,52 @@ acknowledgements: ""
 
   <div class="col-xs-2">
     <a href="https://www.tcd.ie/research/profiles/?profile=pitief">
-      <img class="people-pic" src="{{ "/static/img/people/francois.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/FP.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.tcd.ie/research/profiles/?profile=pitief">François Pitié</a>
       <h6>Trinity College Dublin, Ireland</h6>
     </div>
   </div>
+  
+  
+  <div class="col-xs-2">
+    <a href="https://science.gsfc.nasa.gov/sed/bio/manabendra.saharia">
+      <img class="people-pic" src="{{ "/static/img/people/MS.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://science.gsfc.nasa.gov/sed/bio/manabendra.saharia">Manabendra Saharia</a>
+      <h6>NASA GSFC/University of Maryland, United States</h6>
+    </div>
+  </div>
 
+
+
+  <div class="col-xs-2">
+    <a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EYHLEE">
+      <img class="people-pic" src="{{ "/static/img/people/YHL.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EYHLEE">Yee Hui Lee</a>
+      <h6>Nanyang Technological University, Singapore</h6>
+    </div>
+  </div>
+  
+  
+  
+  
+  <div class="col-xs-2">
+    <a href="https://stefan.winkler.site/">
+      <img class="people-pic" src="{{ "/static/img/people/SW.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://stefan.winkler.site/">Stefan Winkler</a>
+      <h6>National University of Singapore</h6>
+    </div>
+  </div>
+  
+  
+  
 </div>
 
 <hr>
