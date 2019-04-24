@@ -31,11 +31,9 @@ acknowledgements: ""
 -->
 
 <br>
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Introduction</h2>
-  </div>
-</div>
+
+## Introduction 
+
 <div class="row">
   <div class="col-xs-12">
     <p>
@@ -47,11 +45,9 @@ acknowledgements: ""
   </div>
 </div> <br>   
 
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
+
+## Call for Papers
+
 <div class="row">
   <div class="col-xs-12">
     <p>
