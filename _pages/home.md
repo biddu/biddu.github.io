@@ -14,12 +14,14 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Computer Vision for Atmospheric Events Analysis (CVAE)</h1></center>
-    <center><h2>ACPR 2019 Workshop, Auckland, New Zealand</h2></center>
+    <center><h2><a href="https://www.acpr2019.org/workshops.html">ACPR 2019 Workshop, Auckland, New Zealand</a></h2></center>
     <center>Tuesday November 26 2019, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
   </div>
 </div>
 
 <hr>
+
+
 
 <!-- 
 <div class="row" id="intro">
@@ -74,6 +76,8 @@ acknowledgements: ""
       <li>Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).</li>
       <li>All the papers must be submitted using the provided templates.</li>
     </ul>      
+    Workshop proceedings will be published after the conference in the CCIS series of Springer through the ACPR organizers (publication chair).
+<br><u>NOTE</u>: Registration for workshops is included in the conference registration, i.e., all the registered ACPR participants are free to attend any of the workshops (besides all the sessions of the main conference).
     </p>
 
 
