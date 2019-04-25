@@ -314,9 +314,14 @@ acknowledgements: ""
   <div class="col-md-4">
     <a href="https://www.adaptcentre.ie/"><img src="{{ "/static/img/people/Adapt_Logo_RGB2.png" | prepend:site.baseurl }}"></a>
   </div>
-  <br>
-  <p>
+  
+</div>
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
       Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> and <a href="https://3dscenegen.github.io/">3D Scene Generation workshop</a> for the webpage format.
     </p>
-</div><br>
+  </div>
+</div>
 {% endif %}
