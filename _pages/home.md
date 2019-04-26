@@ -23,14 +23,13 @@ acknowledgements: ""
 
 
 
-<!-- 
+
 <div class="row" id="intro">
   <div class="col-md-12">
-    <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
-    <p> Image credit: [1, 2, 7, 12, 6, 4, 5]</p>
+    <img src="{{ "/static/img/splash2.jpg" | prepend:site.baseurl }}">
   </div>
 </div>
--->
+
 
 <br>
 
