@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Computer Vision for Atmospheric Events Analysis (CVAE)</h1></center>
+    <center><h1><a href="https://2019cvae.github.io/">Computer Vision for Atmospheric Events Analysis (CVAE)</a></h1></center>
     <center><h2><a href="https://www.acpr2019.org/workshops.html">ACPR 2019 Workshop, Auckland, New Zealand</a></h2></center>
     <center>Tuesday November 26 2019, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
   </div>
