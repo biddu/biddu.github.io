@@ -69,7 +69,7 @@ acknowledgements: ""
       <li>Pattern recognition application areas: solar energy, renewables, photovoltaic etc.</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> <a href="https://cmt3.research.microsoft.com/CVAE2019" target="_blank" rel="noopener"><span style="color: #3366ff;">Click here for Submission</span></a>
+      <span style="font-weight:500;">Submission:</span> <a href="https://cmt3.research.microsoft.com/CVAE2019" target="_blank" rel="noopener"><span style="color: #3366ff;">Click here for submission</span></a>
       <ul>
       <li>Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.</li>
       <li>Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).</li>
