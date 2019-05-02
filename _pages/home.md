@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1><a href="https://2019cvae.github.io/">Computer Vision for Atmospheric Events Analysis (CVAE)</a></h1></center>
     <center><h2><a href="https://www.acpr2019.org/workshops.html">ACPR 2019 Workshop, Auckland, New Zealand</a></h2></center>
-    <center>Tuesday November 26 2019, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
+    <center>Tuesday November 26 2019</center>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ acknowledgements: ""
       <li>Pattern recognition application areas: solar energy, renewables, photovoltaic etc.</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> Paper submission portal will be available soon.
+      <span style="font-weight:500;">Submission:</span> <a href="https://cmt3.research.microsoft.com/CVAE2019" target="_blank" rel="noopener"><span style="color: #3366ff;">Click here for Submission</span></a>
       <ul>
       <li>Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.</li>
       <li>Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).</li>
