@@ -303,7 +303,10 @@ acknowledgements: ""
 ### Technical Program Committee (TPC) 
 
 <ul>
+<li>Feng Yuan, Temasek Laboratories</li>    
 <li>G. Lakshmi Sutha, National Institute of Technology Puducherry</li>  
+<li>Josep Calbó, Universitat de Girona</li>  
+<li>Sven Loncaric, University of Zagreb</li>  
 <li>Yu Song Meng, National Metrology Centre, Agency for Science, Technology and Research, Singapore</li>
 </ul>
 	
