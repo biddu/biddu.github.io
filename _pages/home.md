@@ -306,8 +306,10 @@ acknowledgements: ""
 <li>Amal Chandran, Satellite Research Centre, Singapore</li>    
 <li>Feng Yuan, Temasek Laboratories</li>    
 <li>G. Lakshmi Sutha, National Institute of Technology Puducherry</li>  
+<li>John McDonald, Maynooth University</li>  
 <li>Josep Calbó, Universitat de Girona</li>  
 <li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology</li>  
+<li>Rozenn Dahyot, Trinity College Dublin</li>  
 <li>Shilpa Manandhar, Nanyang Technological University, Singapore</li>  
 <li>Subhrajit Roy, IBM Research, Australia</li>  
 <li>Sven Loncaric, University of Zagreb</li>  
