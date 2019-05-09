@@ -308,6 +308,7 @@ acknowledgements: ""
 <li>Josep Calbó, Universitat de Girona</li>  
 <li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology</li>  
 <li>Shilpa Manandhar, Nanyang Technological University, Singapore</li>  
+<li>Subhrajit Roy, IBM Research, Australia</li>  
 <li>Sven Loncaric, University of Zagreb</li>  
 <li>Yu Song Meng, National Metrology Centre, Agency for Science, Technology and Research, Singapore</li>
 </ul>
