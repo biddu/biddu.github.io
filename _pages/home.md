@@ -309,6 +309,7 @@ acknowledgements: ""
 <li>Jing Su, Trinity College Dublin</li> 
 <li>John McDonald, Maynooth University</li>  
 <li>Josep Calbó, Universitat de Girona</li>  
+<li>Lucie Lévêque, Xi'an Jiaotong, Suzhou, China</li> 
 <li>Murhaf Hossari, Trinity College Dublin</li> 
 <li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology</li>  
 <li>Rozenn Dahyot, Trinity College Dublin</li>  
@@ -318,6 +319,7 @@ acknowledgements: ""
 <li>Yu Song Meng, National Metrology Centre, Agency for Science, Technology and Research, Singapore</li>
 </ul>
 	
+  
 
 <hr>
 
