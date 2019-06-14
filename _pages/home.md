@@ -309,7 +309,7 @@ acknowledgements: ""
 <li>Jing Su, Trinity College Dublin</li> 
 <li>John McDonald, Maynooth University</li>  
 <li>Josep Calbó, Universitat de Girona</li>  
-<li>Lucie Lévêque, Xi'an Jiaotong, Suzhou, China</li> 
+<li>Lucie Lévêque, Xi'an Jiaotong - Liverpool University, Suzhou, China</li> 
 <li>Murhaf Hossari, Trinity College Dublin</li> 
 <li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology</li>  
 <li>Rozenn Dahyot, Trinity College Dublin</li>  
