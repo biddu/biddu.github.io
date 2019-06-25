@@ -305,18 +305,18 @@ acknowledgements: ""
 <ul>
 <li>Amal Chandran, Satellite Research Centre, Singapore</li>    
 <li>Andrew Hines, University College Dublin, Ireland</li>  
-<li>Feng Yuan, Temasek Laboratories</li>    
-<li>G. Lakshmi Sutha, National Institute of Technology Puducherry</li>  
-<li>Jing Su, Trinity College Dublin</li> 
-<li>John McDonald, Maynooth University</li>  
-<li>Josep Calbó, Universitat de Girona</li>  
+<li>Feng Yuan, Temasek Laboratories, Singapore</li>    
+<li>G. Lakshmi Sutha, National Institute of Technology Puducherry, India</li>  
+<li>Jing Su, Trinity College Dublin, Ireland</li> 
+<li>John McDonald, Maynooth University, Ireland</li>  
+<li>Josep Calbó, Universitat de Girona, Spain</li>  
 <li>Lucie Lévêque, Xi'an Jiaotong - Liverpool University, Suzhou, China</li> 
-<li>Murhaf Hossari, Trinity College Dublin</li> 
-<li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology</li>  
-<li>Rozenn Dahyot, Trinity College Dublin</li>  
+<li>Murhaf Hossari, Trinity College Dublin, Ireland</li> 
+<li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology, China</li>  
+<li>Rozenn Dahyot, Trinity College Dublin, Ireland</li>  
 <li>Shilpa Manandhar, Nanyang Technological University, Singapore</li>  
 <li>Subhrajit Roy, IBM Research, Australia</li>  
-<li>Sven Loncaric, University of Zagreb</li>  
+<li>Sven Loncaric, University of Zagreb, Croatia</li>  
 <li>Yu Song Meng, National Metrology Centre, Agency for Science, Technology and Research, Singapore</li>
 </ul>
 	
