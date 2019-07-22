@@ -313,7 +313,7 @@ acknowledgements: ""
 <li>John McDonald, Maynooth University, Ireland</li>  
 <li>John Thomas, Nanyang Technological University, Singapore</li>  
 <li>Josep Calbó, Universitat de Girona, Spain</li>  
-<li>Kashyapa Naren Athreyas, NCAR - The National Center for Atmospheric Research, Colorado, United States</li>  
+<li>Kashyapa Naren Athreyas, Nanyang Technological University, Singapore</li>  
 <li>Lucie Lévêque, Xi'an Jiaotong - Liverpool University, Suzhou, China</li> 
 <li>Murhaf Hossari, Trinity College Dublin, Ireland</li> 
 <li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology, China</li>  
