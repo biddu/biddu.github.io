@@ -320,7 +320,7 @@ acknowledgements: ""
 <li>Rozenn Dahyot, Trinity College Dublin, Ireland</li>  
 <li>Shilpa Manandhar, Nanyang Technological University, Singapore</li>  
 <li>Subhrajit Roy, IBM Research, Australia</li>  
-<li>Supriya Sathyanarayana, California, United States</li>  
+<li>Supriya Sathyanarayana, Stanford University, California, United States</li>  
 <li>Sven Loncaric, University of Zagreb, Croatia</li>  
 <li>Yu Song Meng, National Metrology Centre, Agency for Science, Technology and Research, Singapore</li>
 </ul>
