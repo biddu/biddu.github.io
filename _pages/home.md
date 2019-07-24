@@ -316,6 +316,7 @@ acknowledgements: ""
 <li>Kashyapa Naren Athreyas, Nanyang Technological University, Singapore</li>  
 <li>Lucie Lévêque, Xi'an Jiaotong - Liverpool University, Suzhou, China</li> 
 <li>Murhaf Hossari, Trinity College Dublin, Ireland</li> 
+<li>Nikitha Radhakrishnan, Pacific Northwest National Laboratory - PNNL, Washington, United States</li> 
 <li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology, China</li>  
 <li>Rozenn Dahyot, Trinity College Dublin, Ireland</li>  
 <li>Shilpa Manandhar, Nanyang Technological University, Singapore</li>  
