@@ -318,6 +318,7 @@ acknowledgements: ""
 <li>Murhaf Hossari, Trinity College Dublin, Ireland</li> 
 <li>Nikitha Radhakrishnan, Pacific Northwest National Laboratory - PNNL, Washington, United States</li> 
 <li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology, China</li>  
+<li>Ravi Kumar Satzoda, Bosch Center for Artificial Intelligence (BCAI), Palo Alto, United States</li>  
 <li>Rozenn Dahyot, Trinity College Dublin, Ireland</li>  
 <li>Shilpa Manandhar, Nanyang Technological University, Singapore</li>  
 <li>Subhrajit Roy, IBM Research, Australia</li>  
