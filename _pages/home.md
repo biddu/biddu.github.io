@@ -234,7 +234,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
-      <h6>ADAPT Centre, Trinity College Dublin, Ireland</h6>
+      <h6>ADAPT Centre, University College Dublin, Ireland</h6>
     </div>
   </div>
   
