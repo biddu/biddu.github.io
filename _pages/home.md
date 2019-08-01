@@ -309,6 +309,7 @@ acknowledgements: ""
 <li>Deval Mehta, Panasonic R&D Center, Singapore</li>  
 <li>Feng Yuan, Temasek Laboratories, Singapore</li>    
 <li>G. Lakshmi Sutha, National Institute of Technology Puducherry, India</li>  
+<li>Hisham Cholakkal, Inception Institute of Artificial Intelligence, Abu Dhabi, United Arab Emirates</li> 
 <li>Jing Su, Trinity College Dublin, Ireland</li> 
 <li>John McDonald, Maynooth University, Ireland</li>  
 <li>John Thomas, Nanyang Technological University, Singapore</li>  
