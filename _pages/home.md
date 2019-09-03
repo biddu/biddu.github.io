@@ -305,6 +305,7 @@ acknowledgements: ""
 <ul>
 <li>Amal Chandran, Satellite Research Centre, Singapore</li>    
 <li>Andrew Hines, University College Dublin, Ireland</li>  
+<li>Avishek Nag, University College Dublin, Ireland</li>  
 <li>Bihan Wen, Nanyang Technological University, Singapore</li>  
 <li>Deval Mehta, Panasonic R&D Center, Singapore</li>  
 <li>Feng Yuan, Temasek Laboratories, Singapore</li>    
@@ -318,6 +319,7 @@ acknowledgements: ""
 <li>Lucie Lévêque, Xi'an Jiaotong - Liverpool University, Suzhou, China</li> 
 <li>Murhaf Hossari, Trinity College Dublin, Ireland</li> 
 <li>Nikitha Radhakrishnan, Pacific Northwest National Laboratory - PNNL, Washington, United States</li> 
+<li>Nishtha Jain, ADAPT SFI Research Centre, Dublin, Ireland</li> 
 <li>Qingzhi Zhao, College of Geomatics, Xi'an University of Science and Technology, China</li>  
 <li>Ravi Kumar Satzoda, Bosch Center for Artificial Intelligence (BCAI), Palo Alto, United States</li>  
 <li>Rozenn Dahyot, Trinity College Dublin, Ireland</li>  
