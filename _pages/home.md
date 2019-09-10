@@ -102,7 +102,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>September 10, 2019 (No Extension)</td>
+          <td>September 14, 2019, Anywhere on Earth time (No Extension)</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
