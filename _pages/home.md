@@ -127,7 +127,7 @@ acknowledgements: ""
 ## Schedule 
 <div class="row">
   <div class="col-md-12">
-  TBD
+  (The workshop is cancelled because of unforeseen reasons.)
   </div>
 </div>
 
@@ -213,7 +213,7 @@ acknowledgements: ""
 ## Accepted Papers 
 <div class="row">
   <div class="col-md-12">
-  TBD
+  N/A
   </div>
 </div>
 
