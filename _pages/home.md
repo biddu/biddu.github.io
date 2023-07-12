@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "CVAE 2019"
-title: "CVAE 2019"
-categories: acpr, workshop, computer vision, computer graphics, remote sensing, robotics, machine learning
+urltitle:  "Quadrature-EU"
+title: "Quadrature-EU"
+
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1><a href="https://2019cvae.github.io/">Computer Vision for Atmospheric Events Analysis (CVAE)</a></h1></center>
+    <center><h1><a href="https://Quadrature-EU.github.io/">QUADRATURE - The Future of Quantum Computing is here!</a></h1></center>
     <center><h2><a href="https://www.acpr2019.org/workshops.html">ACPR 2019 Workshop, Auckland, New Zealand</a></h2></center>
     <center>Tuesday November 26 2019</center>
   </div>
