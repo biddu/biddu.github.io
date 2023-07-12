@@ -4,7 +4,6 @@ urltitle:  "Quadrature-EU"
 title: "Quadrature-EU"
 
 permalink: /
-favicon: /static/img/ico/favicon.png
 bibtex: true
 paper: true
 acknowledgements: ""
@@ -14,8 +13,6 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1><a href="https://Quadrature-EU.github.io/">QUADRATURE - The Future of Quantum Computing is here!</a></h1></center>
-    <center><h2><a href="https://www.acpr2019.org/workshops.html">ACPR 2019 Workshop, Auckland, New Zealand</a></h2></center>
-    <center>Tuesday November 26 2019</center>
   </div>
 </div>
 
@@ -38,19 +35,13 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Pattern recognition and computer vision techniques are now extensively used in the realms of remote sensing applications. These techniques assist the remote sensing analysts to understand the various atmospheric events. With the advancement of photogrammetric techniques and imaging technologies (viz. Moderate Resolution Imaging Spectroradiometer MODIS, weather satellite images, ground-based images etc.), it is now possible to effectively analyze the various events in the earth’s atmosphere. 
+      QUADRATURE is an EU-funded project that aims to take a bold step towards creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.
     </p>
-	
-    <p>
-      With the advancement of computing devices and deep learning techniques, it is now increasingly easier to analyze large amounts of heterogeneous data collected from diverse sensors. Techniques from computer vision, machine learning and statistical pattern recognition have been used in a multitude of remote sensing applications: solar energy production, local weather prediction, studying atmospheric aerosols, climate change and modelling etc.
-    </p>
-	
-    <p>
-      This workshop aims to foster collaboration between pattern recognition and remote sensing experts. We intend to address challenging problems impacting our planet, and propose solutions using the quickly-evolving field of computer vision.
-    </p>
-  </div>
-</div> <br>   
+The project is a collaboration between several universities and industry such as Universitat Politechnica de Valencia, Universitat Politechnica de Catalunya, TU Delft, University of Siegen, Universita Degli Studi di Catania, Equal1 Laboratories, Ireland, the Barcelona Supercomputing Center, University College Dublin, and the Ecole Polytechnique Federale de Lausanne (EPFL).
 
+ 
+    </p>
+	
 
 ## Call for Papers
 
