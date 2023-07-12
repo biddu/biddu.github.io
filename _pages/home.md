@@ -39,5 +39,4 @@ acknowledgements: ""
     </p>
 The project is a collaboration between several universities and industry such as Universitat Politechnica de Valencia, Universitat Politechnica de Catalunya, TU Delft, University of Siegen, Universita Degli Studi di Catania, Equal1 Laboratories, Ireland, the Barcelona Supercomputing Center, University College Dublin, and the Ecole Polytechnique Federale de Lausanne (EPFL).
 
- 
     </p>
