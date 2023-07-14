@@ -1,28 +1,24 @@
 ---
 layout: home3
 title: About Me
-description: "Soumyabrata DEV's website"
+description: "Quadrature EU Project Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: 
 ---
-I am an <a href="https://people.ucd.ie/soumyabrata.dev/">Assistant Professor</a> in the <a href="https://www.ucd.ie/cs/">School of Computer Science</a>, at <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>. I am also an Institute Member of <a href="https://www.ucd.ie/earth/">UCD Earth Institute</a>, and an SFI Funded Investigator with <a href="https://www.adaptcentre.ie">ADAPT SFI Research Centre</a>, Dublin. 
+QUADRATURE is an EU-funded project that aims to take a bold step towards creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.
+<br />
+The project is a collaboration between several universities and industry such as Universitat Politechnica de Valencia, Universitat Politechnica de Catalunya, TU Delft, University of Siegen, Universita Degli Studi di Catania, Equal1 Laboratories, Ireland, the Barcelona Supercomputing Center, University College Dublin, and the Ecole Polytechnique Federale de Lausanne (EPFL). 
 
 <br />
-I lead the <a href="https://soumyabrata.dev/theia/">THE visIon and Analytics lab (THEIA)</a> at UCD. Our research interests primarily lie in the area of computer vision, image processing, and remote sensing. Leveraging techniques from statistical machine learning and deep learning, we tackle interdisciplinary computational problems in diverse fields, including digital multimedia, atmospheric research, coastal monitoring, and solar and renewable energy. 
+This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. This website reflects only the author’s view and the EC is not responsible for any use that may be made of the information it contains. 
 
 <br />
-I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institute of Technology Silchar</a>, India *summa cum laude* in 2010. Post graduation, I worked with <a href="http://www.ericsson.com/in">Ericsson India</a> as a network engineer from 2010 to 2012. Then I went on to complete my Ph.D. from <a href="www.ntu.edu.sg/Pages/home.aspx">Nanyang Technological University (NTU) Singapore</a> in 2017. From Aug-Dec 2015, I was a visiting <a href="http://people.epfl.ch/soumyabrata.dev">Doctoral Assistant</a> at <a href="http://www.epfl.ch/">Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne</a>, Switzerland. From 2017 till 2019, I was a <a href="https://www.adaptcentre.ie/team-members/person-detail/soumyabrata-dev">Postdoctoral Researcher</a> at <a href="http://www.tcd.ie">Trinity College Dublin</a>. I was also an <a href="https://www.ncirl.ie/Faculty-Depts/A-Z-Staff-Directory/Staff/404">Associate Faculty</a> at <a href="https://www.ncirl.ie/Faculty-Depts/School-of-Computing">School of Computing</a>, <a href="https://www.ncirl.ie">National College of Ireland</a>, Dublin during 2018-2019.
 
 
 #### Recent News
 
-+ (July 2023): Our group has a strong presence at International Geoscience and Remote Sensing Symposium (IGARSS 2023) with 9 papers. Say hi to us at Pasadena, California if you are attending!
-+ (July 2023): Our group has a strong presence at Progress In Electromagnetics Research Symposium (PIERS 2023) with 6 papers. Say hi to us at Prague, Czech Republic if you are attending! 
-+ (June 2023): Welcome to Lucian Fairbrother from Brandeis University, United States to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a summer intern.
-+ (January 2023): Welcome to Menatallah Abdel Azeem to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a PhD student.
-+ [<a href="https://soumyabrata.github.io/news/">older news</a>]
-
++ (July 2023): The kickoff meeting for QUADRATURE project took place in Valencia on 6th and 7th July!
 
 <!---
 Previous about me!
