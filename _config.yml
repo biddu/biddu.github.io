@@ -1,9 +1,0 @@
-title: Computer Vision for Atmospheric Events Analysis (CVAE)
-email: 2019cvae@gmail.com
-description: Website for the Workshop on Computer Vision for Atmospheric Events Analysis (CVAE) at ACPR 2019
-  ---
-baseurl: "" # the subpath of your site, e.g. /blog
-
-# Build settings
-markdown: kramdown
-include: ['_pages']
