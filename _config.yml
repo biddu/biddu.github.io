@@ -1,7 +1,7 @@
 title:            Quadrature Project's site
 description:      The Future of Quantum Computing is here!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //Quadrature-EU.github.io
+url:              https://quadrature-eu.github.io/
 #http://localhost:5000
 #https://jponttuset.github.io
 #disqus_shortname: Soumyabrata
