@@ -1,7 +1,7 @@
 title:            Quadrature Project's site
 description:      The Future of Quantum Computing is here!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://quadrature-eu.github.io/
+url:              https://biddu.github.io/
 #http://localhost:5000
 #https://jponttuset.github.io
 #disqus_shortname: Soumyabrata
@@ -9,7 +9,7 @@ url:              https://quadrature-eu.github.io/
 # Owner/author information
 owner:
   name:           Avishek Nag
-  #avatar:         SD-21June2023.jpeg
+  avatar:         quadrature_logo.jpeg
   #bio:            Assistant Professor at University College Dublin
   #email:          soumyabrata.dev@ucd.ie
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
