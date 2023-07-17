@@ -1,25 +1,42 @@
 ---
 layout: novipage
 permalink: /research/
-title: Research
+title: Consortium
 tags: [code]
 modified: 24-04-2017
 comments: false
 sidebar:
-  nav: sidebar-research
+  nav: sidebar-consortium
 ---
 
 <!---
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
 
-# Research 
-My research interests include image processing, machine learning, and remote sensing. I solve problems in atmospheric science, multimedia, ehealth, and network security. My research interests in the theme of atmospheric science strongly align with UN Sustainable Development Goals: (a) [Goal 7: affordable and clean energy](https://www.un.org/sustainabledevelopment/energy/), and (b) [Goal 13: climate action](https://www.un.org/sustainabledevelopment/climate-change/).
+# Consortium 
+ 
+Partner Organisation				Country		Role
 
-<br />
-Our group is currently working on the following research themes. Please navigate into the individual research themes for more details. 
+UNIVERSITAT POLITECNICA DE VALENCIA		ESP		Coordinator
 
+UNIVERSITAT POLITECNICA DE CATALUNYA		ESP		Partner
 
+TECHNISCHE UNIVERSITEIT DELFT			NL		Partner
+
+UNIVERSITAET SIEGEN				DE		Partner
+
+UNIVERSITA DEGLI STUDI DI CATANIA		IT		Partner
+
+EQUAL 1 LABORATORIES IRELAND LIMITED		IRE		Partner
+
+BARCELONA SUPERCOMPUTING CENTER			ESP		Partner
+
+UNIVERSITY COLLEGE DUBLIN			IRE		Partner
+
+ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE	CH	 	Associated
+﻿
+
+<!----
 ## [<u>Cloud Imaging</u>](https://soumyabrata.github.io/cloud/)
 In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the atmosphere. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height. [[read more](https://soumyabrata.github.io/cloud/)]
     <br />
