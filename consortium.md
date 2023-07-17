@@ -17,7 +17,7 @@ sidebar:
 
 
 | Partner Organisation  | Country | Role | 
-| ------------- | ------------- | ------------ |
+| ------------- | ------------- | -------------------------- |
 | UNIVERSITAT POLITECNICA DE VALENCIA  | ESP  | Coordinator |
 | UNIVERSITAT POLITECNICA DE CATALUNYA | ESP  |	Partner     |
 | TECHNISCHE UNIVERSITEIT DELFT	       | NL   |	Partner     |
