@@ -24,16 +24,14 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Research
-    url: /research/
+  - title: Consortium
+    url: /consortium/
+  - title: Deliverables
+    url: /deliverables/    
   - title: Publications
-    url: /publications/    
-  - title: Teaching
-    url: /teaching/      
-  - title: Service
-    url: /service/      
-  - title: Team
-    url: /theia/      
+    url: /publications/           
+  - title: Documents and Resources
+    url: /documents/      
   - title: Contact
     url: /contact/      
 
