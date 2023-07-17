@@ -82,7 +82,7 @@ Software Defined Networking (SDN) has transformed the manner in which we manage 
 
 ## [<u>E-Health</u>](https://soumyabrata.github.io/ehealth/)
 Medicine has traditionally always been an empirical field. With the onset of higher computing power and availability of large-scale dataset, it is now increasingly easier to derive insights of any disease. In this research theme, we have set an ambitious goal to use machine-learning models to characterize the empirical model of medicine. [[read more](https://soumyabrata.github.io/ehealth/)]
-
+-->
 
 <!---
 ## [<u>Communications</u>](https://soumyabrata.github.io/communication/)
