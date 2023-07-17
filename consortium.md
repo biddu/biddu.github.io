@@ -1,6 +1,6 @@
 ---
 layout: novipage
-permalink: /research/
+permalink: /consortium/
 title: Consortium
 tags: [code]
 modified: 24-04-2017
