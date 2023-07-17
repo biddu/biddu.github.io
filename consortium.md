@@ -14,26 +14,18 @@ sidebar:
 -->
 
 # Consortium 
- 
-Partner Organisation				Country		Role
 
-UNIVERSITAT POLITECNICA DE VALENCIA		ESP		Coordinator
-
-UNIVERSITAT POLITECNICA DE CATALUNYA		ESP		Partner
-
-TECHNISCHE UNIVERSITEIT DELFT			NL		Partner
-
-UNIVERSITAET SIEGEN				DE		Partner
-
-UNIVERSITA DEGLI STUDI DI CATANIA		IT		Partner
-
-EQUAL 1 LABORATORIES IRELAND LIMITED		IRE		Partner
-
-BARCELONA SUPERCOMPUTING CENTER			ESP		Partner
-
-UNIVERSITY COLLEGE DUBLIN			IRE		Partner
-
-ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE	CH	 	Associated
+| Partner Organisation  | Country | Role | 
+| ------------- | ------------- | ------------ |
+| UNIVERSITAT POLITECNICA DE VALENCIA  | ESP  | Coordinator |
+| UNIVERSITAT POLITECNICA DE CATALUNYA | ESP  |	Partner     |
+| TECHNISCHE UNIVERSITEIT DELFT	       | NL   |	Partner     |
+| UNIVERSITAET SIEGEN		       | DE   |	Partner     |
+| UNIVERSITA DEGLI STUDI DI CATANIA    | IT   |	Partner     |
+| EQUAL 1 LABORATORIES IRELAND LIMITED | IRE  |	Partner     |
+| BARCELONA SUPERCOMPUTING CENTER      | ESP  | Partner     |
+| UNIVERSITY COLLEGE DUBLIN	       |IRE   |	Partner     |
+| ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE| CH	 |Associated |
 ﻿
 
 <!----
