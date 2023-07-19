@@ -1,12 +1,10 @@
 ---
-layout: novipage
+layout: page
 permalink: /consortium/
 title: Consortium
 tags: [code]
 modified: 24-04-2017
 comments: false
-sidebar:
-  nav: sidebar-consortium
 ---
 
 <!---
