@@ -1,5 +1,5 @@
 ---
-layout: novipage
+layout: page
 permalink: /deliverables/
 title: Deliverables
 tags: [code]
