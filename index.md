@@ -12,7 +12,7 @@ QUADRATURE is an EU-funded project that aims to take a bold step towards **creat
 The project is a collaboration between several universities and industries such as [Universitat Politechnica de Valencia](https://www.upv.es/en), [Universitat Politechnica de Catalunya](https://www.upc.edu/ca), [TU Delft](https://www.tudelft.nl/en/), [University of Siegen](https://www.uni-siegen.de/start/), [Universita Degli Studi di Catania](https://www.unict.it/), [Equal1 Laboratories, Ireland](https://www.equal1.com/), [the Barcelona Supercomputing Center](https://www.bsc.es/), [University College Dublin](https://www.ucd.ie/), and the [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/). 
 
 <br />
-<sub><sup>This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. This website reflects only the author’s view and the EC is not responsible for any use that may be made of the information it contains. </sup></sub>
+<sub>This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. This website reflects only the author’s view and the EC is not responsible for any use that may be made of the information it contains. </sub>
 
 <br />
 
