@@ -18,8 +18,8 @@ The project is a collaboration between several universities and industries such 
 
 ## QUADRATURE Main Idea
 
-<img src="{{ site.url }}/images/comm_among_Qcores.001.jpeg">
-* Communication among quantum cores through a quantum cavity channel and a classical mm-wave channel. *
+<img src="{{ site.baseurl }}/images/comm_among_Qcores.001.jpeg">
+* Communication among quantum cores through a quantum cavity channel and a classical mm-wave channel.*
 
 #### Recent News
 
