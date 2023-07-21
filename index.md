@@ -21,7 +21,7 @@ The project is a collaboration between several universities and industries such 
 <br/>
 The vision of QUADRATURE is the realization of million-qubit quantum computing architectures able to address real-world problems otherwise intractable with conventional computers. Such architectures would be based on a modular and scalable multi-Qcore approach enabled by a quantum-coherent network within the cryogenic package.
 <br/>
-<img src="/images/quadrature_vision.png"/>
+<img src="images/‎quadrature_vision.png"/>
 <br/>
 *QUADRATURE Architectural Vision*
 
