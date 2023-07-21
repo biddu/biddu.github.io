@@ -16,7 +16,7 @@ comments: false
 
 | Partner Organisation  | Country | Role | 
 | ------------- | ------------- | -------------------------- |
-| UNIVERSITAT POLITECNICA DE VALENCIA  | ESP  | Coordinator |
+| UNIVERSITAT POLITECNICA DE VALENCIA <img src="images/‎Quadrature_pert_chart.‎001.png"/> | ESP  | Coordinator |
 | UNIVERSITAT POLITECNICA DE CATALUNYA | ESP  |	Partner     |
 | TECHNISCHE UNIVERSITEIT DELFT	       | NL   |	Partner     |
 | UNIVERSITAET SIEGEN		       | DE   |	Partner     |
