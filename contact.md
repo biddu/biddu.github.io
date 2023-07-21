@@ -14,6 +14,8 @@ Trinity College Dublin, Ireland
 affiliation: IEEE (S'09-M'17)  
 -->
 
+Different lead contacts of the QUADRATURE consortium can be reached through the following email addresses.
+
 |  Institution     |             Contact Email                                             |
 |------------------|-----------------------------------------------------------------------|
 | UPV              | <a href="mailto:cargara2@disca.upv.es">cargara2@disca.upv.es </a>     |
