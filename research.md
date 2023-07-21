@@ -36,7 +36,8 @@ operation, through a characterization of the wireless channels within the quantu
 many concurrent quantum state transfers through the quantum links controlled via the wireless network.
 <br/>
 + To obtain performance and efficiency models to be integrated in the system architecture and algorithm analysis.
-<br/>  
+<br/>
+
 # WP4: Quantum System Architecture
 <br/>
 This WP defines the multi-Qcore distributed architecture and development of corresponding optimised mapping solutions for a set of representative and relevant quantum applications. More specifically:
