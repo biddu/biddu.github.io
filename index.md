@@ -12,8 +12,10 @@ QUADRATURE is an EU-funded project that aims to take a bold step towards **creat
 The project is a collaboration between several universities and industries such as [Universitat Politechnica de Valencia](https://www.upv.es/en), [Universitat Politechnica de Catalunya](https://www.upc.edu/ca), [TU Delft](https://www.tudelft.nl/en/), [University of Siegen](https://www.uni-siegen.de/start/), [Universita Degli Studi di Catania](https://www.unict.it/), [Equal1 Laboratories, Ireland](https://www.equal1.com/), [the Barcelona Supercomputing Center](https://www.bsc.es/), [University College Dublin](https://www.ucd.ie/), and the [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/). 
 
 
-## QUADRATURE Main Idea
-
+## QUADRATURE Vision
+<br/>
+The vision of QUADRATURE is the realization of million-qubit quantum computing architectures able to address real-world problems otherwise intractable with conventional computers. Such architectures would be based on a modular and scalable multi-Qcore approach enabled by a quantum-coherent network within the cryogenic package.
+<br/>
 <img src="/images/quadrature_vision.png"/>
 <br/>
 *QUADRATURE Architectural Vision*
