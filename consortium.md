@@ -11,8 +11,6 @@ comments: false
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
 
-# Consortium 
-
 The QUADRATURE Consortium structure looks like this:
 <br/>
 
@@ -28,6 +26,7 @@ The QUADRATURE Consortium structure looks like this:
 | BARCELONA SUPERCOMPUTING CENTER      | ESP  | Partner     |
 | UNIVERSITY COLLEGE DUBLIN	       |IRE   |	Partner     |
 | ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE| CH	 |Associated |
+
 
 <img src="images/‎quadrature_consortium.‎001.png"/> 
 
