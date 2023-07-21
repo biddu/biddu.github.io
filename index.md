@@ -34,8 +34,3 @@ The project is a collaboration between several universities and industries such 
 
 <br />
 
-<br />
-<sub>This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. This website reflects only the author’s view and the EC is not responsible for any use that may be made of the information it contains. </sub>
-
-<br />
-
