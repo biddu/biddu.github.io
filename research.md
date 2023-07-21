@@ -36,7 +36,7 @@ operation, through a characterization of the wireless channels within the quantu
 many concurrent quantum state transfers through the quantum links controlled via the wireless network.
 <br/>
 + To obtain performance and efficiency models to be integrated in the system architecture and algorithm analysis.
-<br/>
+
 
 # WP4: Quantum System Architecture
 <br/>
