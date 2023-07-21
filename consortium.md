@@ -13,6 +13,9 @@ comments: false
 
 # Consortium 
 
+The QUADRATURE Consortium structure looks like this:
+<br/>
+
 
 | Partner Organisation  | Country | Role | 
 | ------------- | ------------- | -------------------------- |
@@ -26,8 +29,7 @@ comments: false
 | UNIVERSITY COLLEGE DUBLIN	       |IRE   |	Partner     |
 | ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE| CH	 |Associated |
 
-<img src="images/UPV.jpg"/> 
-<img src="images/upc.jpg"/>
+<img src="images/‎quadrature_consortium.‎001.png"/> 
 
 <!----
 ## [<u>Cloud Imaging</u>](https://soumyabrata.github.io/cloud/)
