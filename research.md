@@ -9,7 +9,7 @@ comments: false
 
 ## Project Structure
 
-<img align="right" width="100" height="100" src= "images/‎Quadrature_pert_chart.‎001.png"/>
+<img align="right" src= "images/‎Quadrature_pert_chart.‎001.png"/>
 
 The QUADRATURE Project has 7 work packages (WPs), 5 of which are technical and are briefly described as follows:
 
