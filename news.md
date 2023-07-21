@@ -1,5 +1,5 @@
 ---
-layout: novipage
+layout: page
 permalink: /news/
 title: News & Events
 tags: 
