@@ -8,16 +8,16 @@ url:              https://biddu.github.io/
 
 # Owner/author information
 owner:
-  #name:           Avishek Nag
+  name:           QUADRATURE
   avatar:         quadrature_logo.jpeg
   #bio:            Assistant Professor at University College Dublin
   #email:          soumyabrata.dev@ucd.ie
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: SoumyabrataDev
-  #linkedin: soumyabratadev
+  linkedin: https://www.linkedin.com/company/quadrature-eu/
   #google_scholar: _akXw8IAAAAJ
   #orcid: 0000-0002-0153-1095
-  #github: Soumyabrata
+  github: https://github.com/quadrature-eu
   #publons: author/1307481/soumyabrata-dev
 # Do the favicons changes in the file _includes/_author-bio.html
 
