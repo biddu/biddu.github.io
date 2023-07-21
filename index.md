@@ -18,7 +18,7 @@ The project is a collaboration between several universities and industries such 
 
 ## QUADRATURE Main Idea
 
-<img src="/images/quadrature_vision.png" />
+<img src="/images/quadrature_vision.png"/>
 <br/>
 *QUADRATURE Architectural Vision*
 
