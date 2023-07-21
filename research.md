@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Project Structure
 tags: [code]
 modified: 24-04-2017
 comments: false
 ---
 
-## Project Structure
 
 <img align="right" src= "images/‎Quadrature_pert_chart.‎001.png"/>
 
