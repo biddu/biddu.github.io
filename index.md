@@ -3,9 +3,13 @@ layout: home3
 title: About
 description: "Quadrature EU Project Website"
 tags: [Jekyll, theme, responsive, blog, template]
+---
+<!---
 image: 
   feature: 
----
+-->
+
+
 QUADRATURE is an EU-funded project that aims to take a bold step towards **creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.**
 
 <br />
