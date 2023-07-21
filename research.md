@@ -8,9 +8,11 @@ comments: false
 ---
 
 
-<img align="right" src= "images/‎Quadrature_pert_chart.‎001.png"/>
+<img align="right" width="200" height="200" src= "images/‎Quadrature_pert_chart.‎001.png"/>
+ 
 <br/>
 <br/>
+
 The QUADRATURE Project has 7 work packages (WPs), 5 of which are technical and are briefly described as follows:
 
 # WP1: Quantum Coherent Link
