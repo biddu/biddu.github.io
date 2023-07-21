@@ -18,7 +18,7 @@ The project is a collaboration between several universities and industries such 
 
 ## QUADRATURE Main Idea
 
-<img src="/images/comm_among_Qcores.png" />
+<img src="/images/quadrature_vision.png" />
 <br/>
 *Communication among quantum cores through a quantum cavity channel and a classical mm-wave channel*
 
@@ -26,9 +26,16 @@ The project is a collaboration between several universities and industries such 
 
 + (July 2023): The kickoff meeting for the QUADRATURE project took place in Valencia on the 6th and 7th of July!
 
+
+
+
 <!---
 -->
 
 
 
+<br />
+<sub>This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. This website reflects only the author’s view and the EC is not responsible for any use that may be made of the information it contains. </sub>
+
+<br />
 
