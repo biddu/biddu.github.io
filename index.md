@@ -21,6 +21,7 @@ The project is a collaboration between several universities and industries such 
 <br/>
 The vision of QUADRATURE is the realization of million-qubit quantum computing architectures able to address real-world problems otherwise intractable with conventional computers. Such architectures would be based on a modular and scalable multi-Qcore approach enabled by a quantum-coherent network within the cryogenic package.
 <br/>
+<br/>
 <img src="images/‎quadrature_vision.png"/>
 <br/>
 *QUADRATURE Architectural Vision*
@@ -37,7 +38,7 @@ The vision of QUADRATURE is the realization of million-qubit quantum computing a
 
 
 <br />
-<img src="/images/EU_logo.001.png"/> <sub>This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. This website reflects only the author’s view and the EC is not responsible for any use that may be made of the information it contains. </sub>
+<img src="images/‎EU_logo.‎001.png> <sub>This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. This website reflects only the author’s view and the EC is not responsible for any use that may be made of the information it contains. </sub>
 
 <br />
 
