@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-<img align="right" width="600" height="300" src= "images/‎Quadrature_pert_chart.‎001.png"/>
+<img src= "images/‎Quadrature_pert_chart.‎001.png"/>
  
 <br/>
 <br/>
