@@ -9,7 +9,7 @@ url:              https://biddu.github.io/
 # Owner/author information
 owner:
   name:           QUADRATURE
-  avatar:         https://github.com/biddu/biddu.github.io/blob/862b39057c7321372d1d9593a759f961610e09d5/images/quadraturelogo.png
+  avatar:quadraturelogo.png
   bio:            The future of Quantum Computing is here!
   email:          info_quadrature@upv.es   
   #slack:          quadrature-project.slack.com
