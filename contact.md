@@ -29,6 +29,7 @@ Different lead contacts of the QUADRATURE consortium can be reached through the 
 |  EPFL            | <a href="mailto:edoardo.charbon @epfl.ch">cedoardo.charbon @epfl.ch </a>     |
 
 
+You can also reach out to the general email ID: info_quadrature@upv.es for general queries regarding the project.
 
 <!---
 Communication Research I  
