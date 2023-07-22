@@ -31,7 +31,7 @@ The vision of QUADRATURE is the **realization of million-qubit quantum computing
 
 #### Recent News
 
-+ (July 2023): The kickoff meeting for the QUADRATURE project took place in Valencia on the 6th and 7th of July!
++ **(July 2023):** The kickoff meeting for the QUADRATURE project took place in Valencia on the 6th and 7th of July!
 
 
 
