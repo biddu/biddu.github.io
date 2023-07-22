@@ -11,7 +11,8 @@ owner:
   name:           QUADRATURE
   avatar:         quadrature_logo.jpeg
   #bio:            Assistant Professor at University College Dublin
-  #email:          soumyabrata.dev@ucd.ie
+  email:          info_quadrature@upv.es   
+  slack:          quadrature-project.slack.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: SoumyabrataDev
   linkedin: https://www.linkedin.com/company/quadrature-eu/
