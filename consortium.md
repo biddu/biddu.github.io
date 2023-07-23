@@ -28,7 +28,7 @@ The QUADRATURE Consortium structure looks like this:
 | ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE| CH	 |Associated |
 
 
-<img src="/images/‎quadrature_consortium.png"/> 
+<img src="images/Qconsortium.jpeg"/> 
 
 <!----
 ## [<u>Cloud Imaging</u>](https://soumyabrata.github.io/cloud/)
