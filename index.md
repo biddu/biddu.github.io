@@ -25,7 +25,7 @@ The QUADRATURE project aims to **take a bold step towards creating post-NISQ mas
 The vision of QUADRATURE is the **realization of million-qubit quantum computing architectures able to address real-world problems otherwise intractable with conventional computers. Such architectures would be based on a modular and scalable multi-Qcore approach enabled by a quantum-coherent network within the cryogenic package.** The figure below highlights the architectural vision of QUADRATURE.
 <br/>
 <br/>
-<img src="images/‎quadrature_vision.png"/>
+<img src="images/Qvision.png"/>
 <br/>
 *QUADRATURE Architectural Vision*
 
@@ -40,7 +40,7 @@ The vision of QUADRATURE is the **realization of million-qubit quantum computing
 -->
 
 <br />
-<img align="left" width="100" height="100" src="images/‎EU_logo.‎001.png"/><sub> This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. </sub>
+<img align="left" width="100" height="100" src="images/‎EU_logo.png"/><sub> This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. </sub>
 
 <br />
 
