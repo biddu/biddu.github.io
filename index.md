@@ -40,7 +40,7 @@ The vision of QUADRATURE is the **realization of million-qubit quantum computing
 -->
 
 <br />
-<img align="left" width="100" height="100" src="images/‎EU_logo.png"/><sub> This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. </sub>
+<img align="left" width="100" height="100" src="images/EU.png"/><sub> This project has received funding from the European Union’s Horizon Pathfinder program, under grant agreement No  101099697. </sub>
 
 <br />
 
