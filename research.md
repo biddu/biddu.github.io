@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-<img src="/images/‎Quadrature_pert_chart.png"/>
+<img src="/images/Qpert_chart.png"/>
  
 <br/>
 <br/>
