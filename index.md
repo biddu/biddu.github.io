@@ -1,5 +1,5 @@
 ---
-layout: home2
+layout: home3
 title: About
 description: "Quadrature EU Project Website"
 tags: [Jekyll, theme, responsive, blog, template]
