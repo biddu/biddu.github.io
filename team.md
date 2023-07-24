@@ -15,6 +15,7 @@ comments: false
 
 + <img align="left" width="150" height="50" src="/images/UPV.jpg"> **UPV (Project coordinator):** The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks.
  <img width = "400" height = "400" src="/images/‎carmina_upv.png">
+ 
 *PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/)*
 
 + <img align="left" width="150" height="50" src="/images/TUD.png"> **TU Delft:** TU Delft has world-leading activity in qubit fabrication and scalable quantum hardware, RF and data conversion cryogenic ICs.
