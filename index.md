@@ -51,13 +51,6 @@ The QUADRATURE consortium consists of:
 + École Polytechnique Fédérale de Lausanne (EPFL, Switzerland)
 <img src="images/consortium.png"/>
 
-#### Recent News
-
-+ **(July 2023):** The kickoff meeting for the QUADRATURE project took place in Valencia on the 6th and 7th of July!
-
-
-
-
 <!---
 -->
 
