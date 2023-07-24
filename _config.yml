@@ -28,10 +28,11 @@ owner:
 
 # Links to include in top navigation
 # For external links add external: true
+
 links:
   - title: Research
     url: /research/ 
-    - title: Team
+  - title: Team
     url: /team/
   - title: Publications
     url: /publications/           
