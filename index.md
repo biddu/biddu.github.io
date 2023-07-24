@@ -10,24 +10,37 @@ image:
 
 -->
 
-
+## SCALABLE MULTI-CHIP QUANTUM ARCHITECTURES ENABLED BY CRYOGENIC WIRELESS/QUANTUM-COHERENT NETWORK-IN-PACKAGE (QUADRATURE)
 QUADRATURE is an EU-funded project that aims to take a bold step towards **creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.**
 
 <br />
 The project is a collaboration between several universities and industries such as [Universitat Politechnica de Valencia](https://www.upv.es/en), [Universitat Politechnica de Catalunya](https://www.upc.edu/ca), [TU Delft](https://www.tudelft.nl/en/), [University of Siegen](https://www.uni-siegen.de/start/), [Universita Degli Studi di Catania](https://www.unict.it/), [Equal1 Laboratories, Ireland](https://www.equal1.com/), [the Barcelona Supercomputing Center](https://www.bsc.es/), [University College Dublin](https://www.ucd.ie/), and the [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/). 
 
 
-## QUADRATURE Vision
+## The Project
 <br/>
 
-The QUADRATURE project aims to **take a bold step towards creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.** This is only possible by providing a quantum- coherent alternative to the rigid, static and wire-crowded interconnects that are nowadays commonplace in quantum computers. Specifically, an ideal multi-Qcore interconnect fabric should not only support many simultaneous quantum state transfers across the Qcores, but also include a complementary control fabric capable of orchestrating such quantum-coherent exchanges. If realized, this would unleash the architectural scalability potential of quantum computers by virtue of a balanced adaptive tradeoff between communication and computation functions. In summary:
-<br/>
-The vision of QUADRATURE is the **realization of million-qubit quantum computing architectures able to address real-world problems otherwise intractable with conventional computers. Such architectures would be based on a modular and scalable multi-Qcore approach enabled by a quantum-coherent network within the cryogenic package.** The figure below highlights the architectural vision of QUADRATURE.
-<br/>
-<br/>
-<img src="images/Qvision.png"/>
-<br/>
-*QUADRATURE Architectural Vision*
+Today’s tremendous interdisciplinary efforts towards building a quantum computer is aimed at a machine capable of tackling problems beyond the reach of any classical computer. The so-called quantum advantage has been already claimed with state-of-the-art Noisy Intermediate-Scale Quantum (NISQ) computers consisting of several tens of quantum bits (qubits) . Nevertheless, it is widely recognized that addressing any real-world problem will require upscaling to thousands or even millions of qubits. Scaling quantum computers to such a large number of qubits is a major challenge due to, among others, the confluence of (i) technology factors confining the qubits to low fidelity, (ii) the need for cryogenic temperatures to reach practical coherence times, (iii) the dense integration of digital/RF control circuits, which are needed on a per-qubit basis , and (iv) the manifold architectural and algorithmic implications of managing noisy and short-lived qubits. 
+
+<img align="left" width="500" height="500" src="images/Qvision.png"/>
+
+**The QUADRATURE focuses upon the grand challenge of scalability in quantum computers from an architectural or full-stack standpoint.** We are aiming to explore the feasibility of architectures composed of multiple quantum processors (Qcores) that allow to scale up quantum computing systems. This is enabled by networks-in-a-package with a dual character that includes a quantum-coherent link for quantum information transfers coexisting with a cryogenic wireless communication network for exchanging classical data and synchronization.
+
+## The Consortium
+
+The QUADRATURE consortium gathers world-leading experts not only in the required disciplines, but also pioneers in the very specific topics covered in scalable quantum hardware, cryo-CMOS, quantum computer architecture, wireless network-on-chip, integrated antennas, RF transceiver SoCs, and simulation of quantum algorithms. 
+
+The QUADRATURE consortium consists of: 
++ Universitat Politècnica de València (UPV, Spain) – Project coordinator <img align="right" width="100" height="100" src="images/UPV.jpg"/>
++ Universitat Politècnica de Catalunya (UPC, Spain) <img align="right" width="100" height="100" src="images/upc.jpg"/>
++ Delft University of Technology (TU Delft, The Netherlands) <img align="right" width="100" height="100" src="images/TUD.png"/>
++ University of Siegen (UoS, Germany) <img align="right" width="100" height="100" src="images/uos.jpg"/>
++ University of Catania (UNICT, Italy) <img align="right" width="100" height="100" src="images/UNICT.png"/>
++ Equal 1 (Ireland) <img align="right" width="100" height="100" src="images/Equal1.png"/>
++ Barcelona Supercomputing Center (BSC, Spain) <img align="right" width="100" height="100" src="images/BSC.jpg"/>
++ University College Dublin (UCD, Ireland) <img align="right" width="100" height="100" src="images/UCD.png"/>
++ École Polytechnique Fédérale de Lausanne (EPFL, Switzerland) <img align="right" width="100" height="100" src="images/EPFL.png"/>
+
 
 #### Recent News
 
