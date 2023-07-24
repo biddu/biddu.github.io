@@ -13,8 +13,8 @@ comments: false
  
 
 
-<img align="left" width="300" height="100" src="images/UPV.jpg"> **UPV (Project coordinator):** PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/) The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. <img align="left" width="300" height="100" src="images/carmina_upv.png">
-
+<img align="left" width="300" height="100" src="images/UPV.jpg"> **UPV (Project coordinator):** PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/) <img align="left" width="100" height="300" src="images/carmina_upv.png">
+The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. 
 
 
 
