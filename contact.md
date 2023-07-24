@@ -14,22 +14,10 @@ Trinity College Dublin, Ireland
 affiliation: IEEE (S'09-M'17)  
 -->
 
-Different lead contacts of the QUADRATURE consortium can be reached through the following email addresses.
+If you want more information about the QUADRATURE project, please email us at info_quadrature@upv.es.
 
-|  Institution     |             Contact Email                                             |
-| :---             |    :---                                                               |
-| UPV              | <a href="mailto:cargara2@disca.upv.es">cargara2@disca.upv.es </a>     |
-| UPC              | <a href="mailto:eduard.alarcon@upc.edu">eduard.alarcon@upc.edu </a>     |
-| TU DELFT         | <a href="mailto:f.sebastiano@tudelft.nl">f.sebastiano@tudelft.nl </a>     |
-| U. SIEGEN        | <a href="peter.haring@uni-siegen.de">peter.haring@uni-siegen.de </a>     |
-| UDS DI CATANIA   | <a href="mailto:maurizio.palesi@dieei.unict.it">maurizio.palesi@dieei.unict.it </a>     |
-| EQUAL1           | <a href="mailto:elena.blokhina@equal1.com">elena.blokhina@equal1.com </a>     |
-| BARCELONA SUPERCOMPUTING CENTER          |   <a href="mailto:artur.garcia@bsc.es">artur.garcia@bsc.es </a>|
-| UCD              | <a href="mailto:robert.staszewski@ucd.ie">robert.staszewski@ucd.ie </a>     |
-|  EPFL            | <a href="mailto:edoardo.charbon @epfl.ch">cedoardo.charbon @epfl.ch </a>     |
+You can also follow us on [Linkedin](https://www.linkedin.com/company/quadrature-eu/). 
 
-
-You can also reach out to the general email ID: info_quadrature@upv.es for general queries regarding the project.
 
 <!---
 Communication Research I  
