@@ -11,9 +11,7 @@ image:
 <!---
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
-<img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> 
-<img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> 
-<img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> 
+ 
 The QUADRATURE Consortium structure looks like this:
 <br/>
 
@@ -30,7 +28,7 @@ The QUADRATURE Consortium structure looks like this:
 | UNIVERSITY COLLEGE DUBLIN	       |IRE   |	Partner     |
 | ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE| CH	 |Associated |
 
-
+<img align="left" width="100" height="100" src="images/consortium.png">
 
 
 
