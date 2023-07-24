@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /consortium/
-title: Consortium
+permalink: /team/
+title: Team
 tags: [code]
 modified: 24-04-2017
 comments: false
