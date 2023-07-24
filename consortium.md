@@ -27,8 +27,6 @@ The QUADRATURE Consortium structure looks like this:
 | UNIVERSITY COLLEGE DUBLIN	       |IRE   |	Partner     |
 | ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE| CH	 |Associated |
 
-<br/>
-
 
 <img src="images/consortium.png"/> 
 
