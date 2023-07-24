@@ -52,6 +52,7 @@ The QUADRATURE consortium consists of:
   <img align="right" width="100" height="100" src="images/EPFL.png"/>
 
 <br/>
+<br/>
 #### Recent News
 
 + **(July 2023):** The kickoff meeting for the QUADRATURE project took place in Valencia on the 6th and 7th of July!
