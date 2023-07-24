@@ -29,19 +29,29 @@ Today’s tremendous interdisciplinary efforts towards building a quantum comput
 ## The Consortium
 
 The QUADRATURE consortium gathers world-leading experts not only in the required disciplines, but also pioneers in the very specific topics covered in scalable quantum hardware, cryo-CMOS, quantum computer architecture, wireless network-on-chip, integrated antennas, RF transceiver SoCs, and simulation of quantum algorithms. 
-
+<br/>
+<br/>
 The QUADRATURE consortium consists of: 
-+ Universitat Politècnica de València (UPV, Spain) – Project coordinator <img align="right" width="100" height="100" src="images/UPV.jpg"/>
-+ Universitat Politècnica de Catalunya (UPC, Spain) <img align="right" width="100" height="100" src="images/upc.jpg"/>
-+ Delft University of Technology (TU Delft, The Netherlands) <img align="right" width="100" height="100" src="images/TUD.png"/>
-+ University of Siegen (UoS, Germany) <img align="right" width="100" height="100" src="images/uos.jpg"/>
-+ University of Catania (UNICT, Italy) <img align="right" width="100" height="100" src="images/UNICT.png"/>
-+ Equal 1 (Ireland) <img align="right" width="100" height="100" src="images/Equal1.png"/>
-+ Barcelona Supercomputing Center (BSC, Spain) <img align="right" width="100" height="100" src="images/BSC.jpg"/>
-+ University College Dublin (UCD, Ireland) <img align="right" width="100" height="100" src="images/UCD.png"/>
-+ École Polytechnique Fédérale de Lausanne (EPFL, Switzerland) <img align="right" width="100" height="100" src="images/EPFL.png"/>
++ Universitat Politècnica de València (UPV, Spain) – Project coordinator
+  <img align="right" width="100" height="100" src="images/UPV.jpg"/>
++ Universitat Politècnica de Catalunya (UPC, Spain)
+  <img align="right" width="100" height="100" src="images/upc.jpg"/>
++ Delft University of Technology (TU Delft, The Netherlands)
+  <img align="right" width="100" height="100" src="images/TUD.png"/>
++ University of Siegen (UoS, Germany)
+  <img align="right" width="100" height="100" src="images/uos.jpg"/>
++ University of Catania (UNICT, Italy)
+  <img align="right" width="100" height="100" src="images/UNICT.png"/>
++ Equal 1 (Ireland)
+  <img align="right" width="100" height="100" src="images/Equal1.png"/>
++ Barcelona Supercomputing Center (BSC, Spain)
+  <img align="right" width="100" height="100" src="images/BSC.jpg"/>
++ University College Dublin (UCD, Ireland)
+  <img align="right" width="100" height="100" src="images/UCD.png"/>
++ École Polytechnique Fédérale de Lausanne (EPFL, Switzerland)
+  <img align="right" width="100" height="100" src="images/EPFL.png"/>
 
-
+<br/>
 #### Recent News
 
 + **(July 2023):** The kickoff meeting for the QUADRATURE project took place in Valencia on the 6th and 7th of July!
