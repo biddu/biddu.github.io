@@ -11,7 +11,7 @@ image:
 <!---
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
-
+<img src="images/consortium.png"/> 
 The QUADRATURE Consortium structure looks like this:
 <br/>
 
@@ -29,7 +29,7 @@ The QUADRATURE Consortium structure looks like this:
 | ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE| CH	 |Associated |
 
 
-<img src="images/consortium.png"/> 
+
 
 
 
