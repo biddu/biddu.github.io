@@ -16,6 +16,8 @@ affiliation: IEEE (S'09-M'17)
 
 If you want more information about the QUADRATURE project, please email us at info_quadrature@upv.es.
 
+<br/>
+
 You can also follow us on [Linkedin](https://www.linkedin.com/company/quadrature-eu/). 
 
 
