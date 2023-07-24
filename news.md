@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /news/
-title: News & Events
+permalink: /talks/
+title: Talks & Events
 tags: 
 modified: 24-04-2017
 comments: false
-sidebar:
-  nav: sidebar-news
 ---
 
 ## 2023
