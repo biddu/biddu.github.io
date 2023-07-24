@@ -18,6 +18,10 @@ The UPV team, which coordinates the project, has a broad expertise in the field 
 
 + <img align="left" width="150" height="50" src="images/TUD.png"> **TU Delft:** PIs - [Dr. Fabio Sebastiano](http://www.fabiosebastiano.org/wp/) and [Dr. Masoud Babaie](https://elca.tudelft.nl/People/bio.php?id=277)
 TU Delft has world-leading activity in qubit fabrication and scalable quantum hardware, RF and data conversion cryogenic ICs.
+
++ <img align="left" width="150" height="50" src="images/upc.jpg"> **UPC:** PIs - [Prof. Dr. Eduard Alarcón](https://eel.upc.edu/ca/personal/pagines-personals/Eduard_Alarcon/Eduard_Alarcon) and [Dr. Sergi Abadal](https://sergiabadal.com/)
+The UPC team has pioneering expertise in the design of nanotechnology-enabled miniaturized small-scale short range wireless systems, as well as design space exploration methodologies for complex multi-layer systems. 
+
  
 
 
