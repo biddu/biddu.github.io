@@ -1,3 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title:            Home
 description:      The Future of Quantum Computing is here!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -50,7 +53,7 @@ kramdown:
   
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
-theme: Architect
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
