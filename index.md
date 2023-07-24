@@ -34,23 +34,23 @@ The QUADRATURE consortium gathers world-leading experts not only in the required
 <br/>
 <br/>
 The QUADRATURE consortium consists of: 
-+ Universitat Politècnica de València (UPV, Spain) – Project coordinator
++ [Universitat Politècnica de València (UPV, Spain)](https://www.upv.es/en) – Project coordinator
+
++ [Universitat Politècnica de Catalunya (UPC, Spain)](https://www.upc.edu/ca)
   
-+ Universitat Politècnica de Catalunya (UPC, Spain)
++ [Delft University of Technology (TU Delft, The Netherlands)](https://www.tudelft.nl/en/)
   
-+ Delft University of Technology (TU Delft, The Netherlands)
++ [University of Siegen (UoS, Germany)](https://www.uni-siegen.de/start/)
   
-+ University of Siegen (UoS, Germany)
++ [University of Catania (UNICT, Italy)](https://www.unict.it/)
   
-+ University of Catania (UNICT, Italy)
++ [Equal 1 (Ireland)](https://www.equal1.com/)
   
-+ Equal 1 (Ireland)
++ [Barcelona Supercomputing Center (BSC, Spain)](https://www.bsc.es/)
   
-+ Barcelona Supercomputing Center (BSC, Spain)
++ [University College Dublin (UCD, Ireland)](https://www.ucd.ie/)
   
-+ University College Dublin (UCD, Ireland)
-  
-+ École Polytechnique Fédérale de Lausanne (EPFL, Switzerland)
++ [École Polytechnique Fédérale de Lausanne (EPFL, Switzerland)](https://www.epfl.ch/en/)
 <img width="800" height="400" src="images/consortium.png"/>
 
 <!---
