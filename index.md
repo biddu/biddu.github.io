@@ -22,7 +22,7 @@ The project is a collaboration between several universities and industries such 
 <br/>
 
 Today’s tremendous interdisciplinary efforts towards building a quantum computer is aimed at a machine capable of tackling problems beyond the reach of any classical computer. The so-called quantum advantage has been already claimed with state-of-the-art Noisy Intermediate-Scale Quantum (NISQ) computers consisting of several tens of quantum bits (qubits) . Nevertheless, it is widely recognized that addressing any real-world problem will require upscaling to thousands or even millions of qubits. Scaling quantum computers to such a large number of qubits is a major challenge due to, among others, the confluence of (i) technology factors confining the qubits to low fidelity, (ii) the need for cryogenic temperatures to reach practical coherence times, (iii) the dense integration of digital/RF control circuits, which are needed on a per-qubit basis , and (iv) the manifold architectural and algorithmic implications of managing noisy and short-lived qubits. 
-<img align="left" width="500" height="300" src="images/Qvision.png"/>
+<img align="left" width="300" height="200" src="images/Qvision.png"/>
 <br/>
 **The QUADRATURE focuses upon the grand challenge of scalability in quantum computers from an architectural or full-stack standpoint.** We are aiming to explore the feasibility of architectures composed of multiple quantum processors (Qcores) that allow to scale up quantum computing systems. This is enabled by networks-in-a-package with a dual character that includes a quantum-coherent link for quantum information transfers coexisting with a cryogenic wireless communication network for exchanging classical data and synchronization.
 
