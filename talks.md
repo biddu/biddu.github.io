@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks & Events
+title: Talks and Events
 tags: 
 modified: 24-04-2017
 comments: false
