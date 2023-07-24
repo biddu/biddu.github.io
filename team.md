@@ -28,7 +28,7 @@ comments: false
 + <img align="left" width="150" height="50" src="images/BSC.jpg"> **BSC:** PI - [Dr. Artur Garcia](https://www.bsc.es/garcia-saez-artur). BSC has a strong background in simulation of physical systems, and in particular the simulation of quantum computation processes
 
 
-+ <img align="left" width="150" height="100" src="images/‎ucd.png"> **UCD:** PIs - [Dr. Prof. Bogdan Staszewski](http://www.bogdanst.com/) and [Dr. Avishek Nag](https://people.ucd.ie/avishek.nag). The UCD team has a strong background on quantum-key distribution, design and development of optimisation models, meta-heuristic methods, deep reinforcement learning, network graph algorithms, communications channel modelling, and network resource allocation and optimisation.
++ <img align="left" width="150" height="80" src="images/‎ucd.png"> **UCD:** PIs - [Dr. Prof. Bogdan Staszewski](http://www.bogdanst.com/) and [Dr. Avishek Nag](https://people.ucd.ie/avishek.nag). The UCD team has a strong background on quantum-key distribution, design and development of optimisation models, meta-heuristic methods, deep reinforcement learning, network graph algorithms, communications channel modelling, and network resource allocation and optimisation.
 
 + <img align="left" width="150" height="50" src="images/EPFL.png"> **EPFL:** PI - [Dr. Prof. Edoardo Charbon](https://people.epfl.ch/edoardo.charbon?lang=en). The EPFL team has extensive cryo-CMOS experience with strong ties with TUD with whom they co-authored recent advances in cryogenic control of quantum processors. 
 
