@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /downloads/
 title: Downloads
+permalink: /downloads/
 tags: [code]
 modified: 24-04-2017
 comments: false
