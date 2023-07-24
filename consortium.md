@@ -30,7 +30,7 @@ The QUADRATURE Consortium structure looks like this:
 <br/>
 
 
-<img src="images/Qconsortium.png"/> 
+<img src="images/Q_consortium.png"/> 
 
 
 
