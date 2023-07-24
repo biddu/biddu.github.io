@@ -29,10 +29,11 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Consortium
-    url: /consortium/
+  
   - title: Research
-    url: /research/    
+    url: /research/ 
+    - title: Team
+    url: /consortium/
   - title: Publications
     url: /publications/           
   - title: Documents and Resources
