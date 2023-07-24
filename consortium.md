@@ -5,7 +5,6 @@ title: Consortium
 tags: [code]
 modified: 24-04-2017
 comments: false
-image:
 ---
 
 <!---
