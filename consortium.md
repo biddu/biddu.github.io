@@ -11,7 +11,9 @@ image:
 <!---
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
-<img src="images/consortium.png"/> 
+<img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> 
+<img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> 
+<img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> <img src="images/UPV.jpg"/> 
 The QUADRATURE Consortium structure looks like this:
 <br/>
 
