@@ -28,6 +28,7 @@ Today’s tremendous interdisciplinary efforts towards building a quantum comput
 **The QUADRATURE focuses upon the grand challenge of scalability in quantum computers from an architectural or full-stack standpoint.** We are aiming to explore the feasibility of architectures composed of multiple quantum processors (Qcores) that allow to scale up quantum computing systems. This is enabled by networks-in-a-package with a dual character that includes a quantum-coherent link for quantum information transfers coexisting with a cryogenic wireless communication network for exchanging classical data and synchronization.
 
 <br/>
+
 ## The Consortium
 
 The QUADRATURE consortium gathers world-leading experts not only in the required disciplines, but also pioneers in the very specific topics covered in scalable quantum hardware, cryo-CMOS, quantum computer architecture, wireless network-on-chip, integrated antennas, RF transceiver SoCs, and simulation of quantum algorithms. 
