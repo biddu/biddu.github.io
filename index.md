@@ -1,6 +1,6 @@
 ---
 layout: home3
-title: SCALABLE MULTI-CHIP QUANTUM ARCHITECTURES ENABLED BY CRYOGENIC WIRELESS/QUANTUM-COHERENT NETWORK-IN-PACKAGE (QUADRATURE)
+title: 
 description: "Quadrature EU Project Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: 
