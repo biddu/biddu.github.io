@@ -32,6 +32,9 @@ comments: false
 
 + <img align="left" width="150" height="50" src="/images/EPFL.png"> **EPFL:** The EPFL team has extensive cryo-CMOS experience with strong ties with TUD with whom they co-authored recent advances in cryogenic control of quantum processors. The EPFL PI - [Dr. Prof. Edoardo Charbon](https://people.epfl.ch/edoardo.charbon?lang=en).
 
+## The PIs of the Project
+
+<img src="/images/PIs.png">
 
 
 
