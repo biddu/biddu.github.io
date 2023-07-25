@@ -34,7 +34,7 @@ comments: false
 
 ## The PIs of the Project
 
-<img width="1200" height="600" src="/images/AllPI.png">
+<img width="1200" height="600" src="./images/AllPI.png">
 
 
 
