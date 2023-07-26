@@ -4,7 +4,7 @@ title:
 description: "Quadrature EU Project Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: 
-  feature: images/banner-horizontal.png
+feature:
 ---
 <!---
 
