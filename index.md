@@ -14,7 +14,7 @@ image:
 -->
 
 <img src="images/Logo_q_hor.png"/>
-
+<br />
 QUADRATURE stands for *Scalable Multi-Chip Quantum Architectures Enabled by Cryogenic Wireless/Quantum-Coherent Network-in-Package* and is an EU-funded project that aims to take a bold step towards **creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.**
 
 <br />
