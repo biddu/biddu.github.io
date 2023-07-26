@@ -37,11 +37,18 @@ comments: false
 
 |<img style="float:left;max-width:150px" src="/images/EPFL.png"> | **École Polytechnique Fédérale de Lausanne (EPFL):** The EPFL team has extensive cryo-CMOS experience with strong ties with TUD with whom they co-authored recent advances in cryogenic control of quantum processors. EPFL PI - [Dr. Prof. Edoardo Charbon](https://people.epfl.ch/edoardo.charbon?lang=en).|
 
-<br/><br/>
+<br/>
 
 ## The PIs of the Project
 
 <img src="/images/‎All_PI.png">
+
+<br/>
+
+## Partner Projects
+
+|<img style="float:left;max-width:150px" src="/images/Wiplash_pos.png"> | **[WiPLASH -](https://www.wiplash.eu/)** Architecting More Than Moore: Wireless Plasticity for Massive Heterogeneous Computer Architectures. |
+
 
 
 
