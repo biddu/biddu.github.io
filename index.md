@@ -3,8 +3,8 @@ layout: home3
 title: 
 description: "Quadrature EU Project Website"
 tags: [Jekyll, theme, responsive, blog, template]
-image: images/banner-horizontal.png
-  feature: 
+image: 
+  feature: images/banner-horizontal.png
 ---
 <!---
 
