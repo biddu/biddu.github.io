@@ -11,13 +11,13 @@ comments: false
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
 
-| <img style="float:left; width: 50 px" src="/images/UPV.jpg"> | **Universitat Politècnica de València (UPV) (Project coordinator):** The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. UPV PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/). |
+| <img style="float:left; width: 50px" src="/images/UPV.jpg"> | **Universitat Politècnica de València (UPV) (Project coordinator):** The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. UPV PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/). |
 
 
-|<img style="float:left; width: 100 px" src="/images/TUD.png">  | **Delft University of Technology (TU Delft):** TU Delft has world-leading activity in qubit fabrication and scalable quantum hardware, RF and data conversion cryogenic ICs. TU Delft PIs - [Dr. Fabio Sebastiano](http://www.fabiosebastiano.org/wp/) and [Dr. Masoud Babaie](https://elca.tudelft.nl/People/bio.php?id=277). |
+|<img style="float:left; width: 100px" src="/images/TUD.png">  | **Delft University of Technology (TU Delft):** TU Delft has world-leading activity in qubit fabrication and scalable quantum hardware, RF and data conversion cryogenic ICs. TU Delft PIs - [Dr. Fabio Sebastiano](http://www.fabiosebastiano.org/wp/) and [Dr. Masoud Babaie](https://elca.tudelft.nl/People/bio.php?id=277). |
 
 
-|<img style="float:left; width: 150 px" src="/images/upc.jpg"> | **Universitat Politècnica de Catalunya (UPC):** The UPC team has pioneering expertise in the design of nanotechnology-enabled miniaturized small-scale short range wireless systems, as well as design space exploration methodologies for complex multi-layer systems. UPC PIs - [Prof. Dr. Eduard Alarcón](https://eel.upc.edu/ca/personal/pagines-personals/Eduard_Alarcon/Eduard_Alarcon) and [Dr. Sergi Abadal](https://sergiabadal.com/). |
+|<img style="float:left; width: 150px" src="/images/upc.jpg"> | **Universitat Politècnica de Catalunya (UPC):** The UPC team has pioneering expertise in the design of nanotechnology-enabled miniaturized small-scale short range wireless systems, as well as design space exploration methodologies for complex multi-layer systems. UPC PIs - [Prof. Dr. Eduard Alarcón](https://eel.upc.edu/ca/personal/pagines-personals/Eduard_Alarcon/Eduard_Alarcon) and [Dr. Sergi Abadal](https://sergiabadal.com/). |
 
 
 <img align="left" width="150" height="50" src="/images/uos.jpg"> **University of Siegen (UoS):** The UoS team has a broad expertise in the field of microwave/mm-wave/THz devices, systems and applications and superconductor cavity deposition techniques. UoS PIs - [Dr. Prof. Peter Haring Bolívar](http://www.grk1564.uni-siegen.de/de/bolivar-peter-haring) and [Xin Jiang](https://www.mb.uni-siegen.de/lot/lehrstuhl/mitarbeiter/jiang/index.html.en?lang=en).
