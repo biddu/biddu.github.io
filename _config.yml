@@ -15,9 +15,9 @@ url:              https://biddu.github.io/
 # Owner/author information
 owner:
   name:           QUADRATURE
-  avatar:         LogoV14.png
-  #logo:           Logo.png
-  bio:            The future of Quantum Computing is here!
+  #avatar:         LogoV14.png
+  logo:          LogoV14.png
+  bio:            Scalable Multi-Chip Quantum Architectures Enabled by Cryogenic Wireless/Quantum-Coherent Network-in-Package
   email:          info_quadrature@upv.es   
   #slack:          quadrature-project.slack.com
   
