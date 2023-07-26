@@ -11,10 +11,35 @@ comments: false
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
 
-| a | b |   |
-|---|---|---|
-| c | d |   |
-| e | f |   | 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">a</th>
+    <th class="tg-0pky">b</th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">c</td>
+    <td class="tg-0pky">d</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">e</td>
+    <td class="tg-0pky">f</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 
 <img align="left" width="150" height="50" src="/images/UPV.jpg"> **Universitat Politècnica de València (UPV) (Project coordinator):** The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. UPV PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/).
 
