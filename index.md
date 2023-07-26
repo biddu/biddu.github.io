@@ -14,7 +14,7 @@ image:
 -->
 
 <img style="width:100%" src="images/banner-horizontal.png"/>
-<br /><br />
+<br /><br /><br /><br />
 
 QUADRATURE is an EU-funded project that aims to take a bold step towards **creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.**
 
