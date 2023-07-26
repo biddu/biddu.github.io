@@ -15,8 +15,8 @@ url:              https://biddu.github.io/
 # Owner/author information
 owner:
   name:           QUADRATURE
-  #avatar:         LogoV14.png
-  logo:          LogoV14.png
+  avatar:         LogoV14.png
+  #logo:          LogoV14.png
   bio:            Scalable Multi-Chip Quantum Architectures Enabled by Cryogenic Wireless/Quantum-Coherent Network-in-Package
   email:          info_quadrature@upv.es   
   #slack:          quadrature-project.slack.com
