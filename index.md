@@ -13,9 +13,8 @@ image:
 ## SCALABLE MULTI-CHIP QUANTUM ARCHITECTURES ENABLED BY CRYOGENIC WIRELESS/QUANTUM-COHERENT NETWORK-IN-PACKAGE (QUADRATURE)
 -->
 
-<span style="text-align:center;font-size:4em;">QUADRATURE</span>
-
-<span style="text-align:center;font-size:2em;">Scalable Multi-Chip Quantum Architectures Enabled by Cryogenic Wireless/Quantum-Coherent Network-in-Package</span>
+## QUADRATURE
+Scalable Multi-Chip Quantum Architectures Enabled by Cryogenic Wireless/Quantum-Coherent Network-in-Package
 
 QUADRATURE is an EU-funded project that aims to take a bold step towards **creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.**
 
