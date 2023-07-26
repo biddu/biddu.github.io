@@ -20,22 +20,22 @@ comments: false
 |<img style="float:left; width: 250px" src="/images/upc.jpg"> | **Universitat Politècnica de Catalunya (UPC):** The UPC team has pioneering expertise in the design of nanotechnology-enabled miniaturized small-scale short range wireless systems, as well as design space exploration methodologies for complex multi-layer systems. UPC PIs - [Prof. Dr. Eduard Alarcón](https://eel.upc.edu/ca/personal/pagines-personals/Eduard_Alarcon/Eduard_Alarcon) and [Dr. Sergi Abadal](https://sergiabadal.com/). |
 
 
-<img align="left" width="150" height="50" src="/images/uos.jpg"> **University of Siegen (UoS):** The UoS team has a broad expertise in the field of microwave/mm-wave/THz devices, systems and applications and superconductor cavity deposition techniques. UoS PIs - [Dr. Prof. Peter Haring Bolívar](http://www.grk1564.uni-siegen.de/de/bolivar-peter-haring) and [Xin Jiang](https://www.mb.uni-siegen.de/lot/lehrstuhl/mitarbeiter/jiang/index.html.en?lang=en).
+|<img style="float:left; width: 250px" src="/images/uos.jpg"> | **University of Siegen (UoS):** The UoS team has a broad expertise in the field of microwave/mm-wave/THz devices, systems and applications and superconductor cavity deposition techniques. UoS PIs - [Dr. Prof. Peter Haring Bolívar](http://www.grk1564.uni-siegen.de/de/bolivar-peter-haring) and [Xin Jiang](https://www.mb.uni-siegen.de/lot/lehrstuhl/mitarbeiter/jiang/index.html.en?lang=en). |
 
 
-<img align="left" width="150" height="50" src="/images/UNICT.png"> **University of Catania (UNICT):** UNICT has a long-time experience in the design and optimization of on-chip communication systems through multi-objective design space exploration and mapping techniques. UNICT PI - [Dr. Maurizio Palesi](http://utenti.dieei.unict.it/users/mpalesi/).
+|<img style="float:left; width: 250px" src="/images/UNICT.png"> | **University of Catania (UNICT):** UNICT has a long-time experience in the design and optimization of on-chip communication systems through multi-objective design space exploration and mapping techniques. UNICT PI - [Dr. Maurizio Palesi](http://utenti.dieei.unict.it/users/mpalesi/).|
 
 
-<img align="left" width="150" height="50" src="/images/Equal1.png"> **Equal1 Labs:** Equal1 is a commercial company with a mission to build the world’s first fully integrated CMOS quantum computer. The founders and top technical staff have over 100 years of aggregated high-tech industry experience, in addition to extensive research experience, particularly in the field of integrated circuits and RF transceivers. Equal1 PIs - [Dr. Elena Blokhina](https://www.equal1.com/about) and [Dr. Dirk Leipold](https://www.equal1.com/about).
+|<img style="float:left; width: 250px" src="/images/Equal1.png"> | **Equal1 Labs:** Equal1 is a commercial company with a mission to build the world’s first fully integrated CMOS quantum computer. The founders and top technical staff have over 100 years of aggregated high-tech industry experience, in addition to extensive research experience, particularly in the field of integrated circuits and RF transceivers. Equal1 PIs - [Dr. Elena Blokhina](https://www.equal1.com/about) and [Dr. Dirk Leipold](https://www.equal1.com/about). |
 
 
-<img align="left" width="150" height="50" src="/images/BSC.jpg"> **Barcelona Supercomputing Center (BSC):** BSC has a strong background in simulation of physical systems, and in particular the simulation of quantum computation processes. BSC PI - [Dr. Artur Garcia](https://www.bsc.es/garcia-saez-artur).
+|<img style="float:left; width: 250px" src="/images/BSC.jpg"> | **Barcelona Supercomputing Center (BSC):** BSC has a strong background in simulation of physical systems, and in particular the simulation of quantum computation processes. BSC PI - [Dr. Artur Garcia](https://www.bsc.es/garcia-saez-artur). |
 
 
-<img align="left" width="150" height="80" src="/images/‎ucd.png"> **University College Dublin (UCD):** The UCD team has a strong background on quantum-key distribution, design and development of optimisation models, meta-heuristic methods, deep reinforcement learning, network graph algorithms, communications channel modelling, and network resource allocation and optimisation. UCD PIs - [Dr. Prof. Bogdan Staszewski](http://www.bogdanst.com/) and [Dr. Avishek Nag](https://people.ucd.ie/avishek.nag).
+|<img style="float:left; width: 250px" src="/images/‎ucd.png"> | **University College Dublin (UCD):** The UCD team has a strong background on quantum-key distribution, design and development of optimisation models, meta-heuristic methods, deep reinforcement learning, network graph algorithms, communications channel modelling, and network resource allocation and optimisation. UCD PIs - [Dr. Prof. Bogdan Staszewski](http://www.bogdanst.com/) and [Dr. Avishek Nag](https://people.ucd.ie/avishek.nag).|
 
 
-<img align="left" width="150" height="50" src="/images/EPFL.png"> **École Polytechnique Fédérale de Lausanne (EPFL):** The EPFL team has extensive cryo-CMOS experience with strong ties with TUD with whom they co-authored recent advances in cryogenic control of quantum processors. EPFL PI - [Dr. Prof. Edoardo Charbon](https://people.epfl.ch/edoardo.charbon?lang=en).
+|<img style="float:left; width: 250px" src="/images/EPFL.png"> | **École Polytechnique Fédérale de Lausanne (EPFL):** The EPFL team has extensive cryo-CMOS experience with strong ties with TUD with whom they co-authored recent advances in cryogenic control of quantum processors. EPFL PI - [Dr. Prof. Edoardo Charbon](https://people.epfl.ch/edoardo.charbon?lang=en).|
 
 
 ## The PIs of the Project
