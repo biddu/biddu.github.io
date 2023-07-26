@@ -11,28 +11,7 @@ comments: false
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{ overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{ overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-0pky"><img align="left" width="150" height="50" src="/images/UPV.jpg"></td>
-    <td class="tg-0pky">**Universitat Politècnica de València (UPV) (Project coordinator):** The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. UPV PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/).</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><img align="left" width="150" height="50" src="/images/TUD.png"></td>
-    <td class="tg-0pky">**Delft University of Technology (TU Delft):** TU Delft has world-leading activity in qubit fabrication and scalable quantum hardware, RF and data conversion cryogenic ICs. TU Delft PIs - [Dr. Fabio Sebastiano](http://www.fabiosebastiano.org/wp/) and [Dr. Masoud Babaie](https://elca.tudelft.nl/People/bio.php?id=277). </td>
-  </tr>
-</tbody>
-</table>
-
-
-
-<img align="left" width="150" height="50" src="/images/UPV.jpg"> **Universitat Politècnica de València (UPV) (Project coordinator):** The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. UPV PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/).
+<img style="float:left; width:150" src="/images/UPV.jpg"> **Universitat Politècnica de València (UPV) (Project coordinator):** The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. UPV PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/).
 
 
 <img align="left" width="150" height="50" src="/images/TUD.png"> **Delft University of Technology (TU Delft):** TU Delft has world-leading activity in qubit fabrication and scalable quantum hardware, RF and data conversion cryogenic ICs. TU Delft PIs - [Dr. Fabio Sebastiano](http://www.fabiosebastiano.org/wp/) and [Dr. Masoud Babaie](https://elca.tudelft.nl/People/bio.php?id=277). 
