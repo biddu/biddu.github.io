@@ -10,7 +10,12 @@ comments: false
 <!---
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
- 
+
+| a | b |   |
+|---|---|---|
+| c | d |   |
+| e | f |   | 
+
 <img align="left" width="150" height="50" src="/images/UPV.jpg"> **Universitat Politècnica de València (UPV) (Project coordinator):** The UPV team, which coordinates the project, has a broad expertise in the field of quantum computing architectures and the design and development of full-stack quantum systems as well as world-leading expertise in on-chip interconnection networks. UPV PI - [Dr. Carmen G. Almudever](https://www.linkedin.com/in/carmengalmudever/).
 
 
