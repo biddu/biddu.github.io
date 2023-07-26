@@ -47,7 +47,7 @@ comments: false
 
 ## Partner Projects
 
-|<img style="float:left;max-width:150px" src="/images/Wiplash_pos.png"> | **[WiPLASH -](https://www.wiplash.eu/)** Architecting More Than Moore: Wireless Plasticity for Massive Heterogeneous Computer Architectures. |
+|<img style="float:left;max-width:150px;margin:5px" src="/images/Wiplash_pos.png"> | **[WiPLASH -](https://www.wiplash.eu/)** Architecting More Than Moore: Wireless Plasticity for Massive Heterogeneous Computer Architectures. |
 
 
 
