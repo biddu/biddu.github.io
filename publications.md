@@ -13,6 +13,7 @@ comments: false
 
 ## Journals
 + P. Escofet, A. Ovide, M. Bandic, L. Prielinger, H. Van Someren, S. Feld, E. Alarcón, S. Abadal, C. G. Almudéver, [“Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era,”](https://arxiv.org/pdf/2403.17205.pdf) ACM Transactions on Quantum Computing, 2024.
++ P. Escofet, A. Ovide, C.G. Almudever, E. Alarcón, and S. Abadal, [“Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures,”](https://www.computer.org/csdl/journal/ca/2023/02/10262036/1QJwn8osSbu) IEEE Computer Architecture Letters, 2023.
 
 ## Conferences
 + A. Pastor, P. Escofet, S. Ben Rached, E. Alarcón, P. Barlet-Ros, S. Abadal, [“Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning,”](https://arxiv.org/pdf/2401.17976.pdf) Proceedings of the ISCAS ‘24, Singapore, May 2024.
@@ -26,6 +27,11 @@ comments: false
 + A. Ovide, S. Rodrigo, M. Bandic, H. Van Someren, S. Feld, S. Abadal, E. Alarcón, and C.G. Almudever, "[Mapping quantum algorithms to multi-core quantum computing architectures](https://arxiv.org/abs/2303.16125)," Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023.
   
 + P. Escofet, S. B. Rached, S. Rodrigo, C. G. Almudever, E. Alarcón, and Sergi Abadal, [“Interconnect Fabrics for Multi-Core Quantum Processors: A Context Analysis,”](https://arxiv.org/pdf/2309.07313.pdf) 16th ACM International Workshop on Network-on-Chip Architectures, Toronto, Canada, 28 October 2023.
+
++ F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Collective Communication Patterns using Time-Reversal Terahertz Links at the Chip Scale,”](https://arxiv.org/pdf/2309.01428) Proceedings of the IEEE GLOBECOM ‘23, Kuala Lumpur, Malaysia, December 2023.
+
++ A. Bandara, F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, [“Exploration of Time Reversal for Wireless Communications within Computing Packages,”](https://arxiv.org/pdf/2307.10820) Proceedings of the ACM NANOCOM’23, Coventry, UK, September 2023.
+
 
 
 
