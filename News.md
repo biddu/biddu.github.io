@@ -18,6 +18,6 @@ comments: false
 
 <img src="/images/Kickoff.png"/>
 
-+The second meeting of QUDRATURE was hosted by Equal1 in Dublin on 23-24 January 2024. 
++ The second meeting of QUDRATURE was hosted by Equal1 in Dublin on 23-24 January 2024. 
 
 <img src="/images/Quadrature_dublin.jpeg"/>
