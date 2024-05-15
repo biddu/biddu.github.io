@@ -18,6 +18,6 @@ comments: false
 
 <img src="/images/Kickoff.png"/>
 
-+ The second meeting of QUDRATURE was hosted by Equal1 in Dublin on 23-24 January 2024. 
++ The second meeting of QUADRATURE was hosted by Equal1 in Dublin on 23-24 January 2024. During two days, the consortium's world-leading experts gathered at Equal1 to engage in exciting and productive discussions on various topics related to superconductive cavities and coherent links, cryogenic wireless design, communication within Quantum Packages, Quantum systems architecture and Quantum simulations and benchmarking.
 
 <img src="/images/Quadrature_dublin.jpeg"/>
