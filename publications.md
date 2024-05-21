@@ -9,11 +9,11 @@ comments: false
 
 
 ## Preprints
-+ S.B. Rached, I. Lopez Agudo, S. Rodrigo, M. Bandic, S. Feld, H. van Someren, E. Alarcón, C.G. Almudever, and S. Abadal, [“Characterising the Inter-Core Qbit Traffic in Large-Scale Quantum Modular Architectures,”](https://arxiv.org/pdf/2310.01921.pdf) arXiv preprint arXiv:2310.01921, 2023.
-
 + F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,”](https://arxiv.org/pdf/2404.18562) arxiv:2404.18562, 2024.
 
 + A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,”](https://arxiv.org/pdf/2404.17325) arxiv:2404.17325, 2024.
+
++ S.B. Rached, I. Lopez Agudo, S. Rodrigo, M. Bandic, S. Feld, H. van Someren, E. Alarcón, C.G. Almudever, and S. Abadal, [“Characterising the Inter-Core Qbit Traffic in Large-Scale Quantum Modular Architectures,”](https://arxiv.org/pdf/2310.01921) arXiv preprint arXiv:2310.01921, 2023.
 
 ## Journals
 + P. Escofet, A. Ovide, M. Bandic, L. Prielinger, H. Van Someren, S. Feld, E. Alarcón, S. Abadal, C. G. Almudéver, [“Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era,”](https://arxiv.org/pdf/2403.17205.pdf) ACM Transactions on Quantum Computing, 2024.
