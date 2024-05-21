@@ -14,10 +14,13 @@ comments: false
 + QUANTUM MACHINES: [Women Pushing the Limits of Quantum Computing: Carmen G. Almudéver](https://www.quantum-machines.co/blog/women-pushing-the-limits-of-quantum-computing-carmen-almudever/)
 
 ## Project News
++ The QUADRATURE partner Equal1 was included on the list of top 10 startups in Dublin compiled by WIRED UK. We do hope that the work developed in the QUADRATURE project on scalable quantum computers integrating multiple quantum cores with quantum-coherent interconnects will make them climb the list even higher! 
++ Junaid Khan and Pau Escofet, two members of QUADRATURE project co-supervised by Eduard Alarcon, Sergi Abadal and Carmen G. Almudéver, have been awarded two prestigious scholarships to pursue their PhD studies in their group at the Universitat Politècnica de Catalunya (UPC). Junaid has been awarded with the Joan Oró scholarship from the Generalitat de Catalunya (local government in Catalunya), whereas Pau received a scholarship from Universitat Politècnica de Catalunya (UPC) sponsored by Santander Universidades.
++ The second meeting of QUADRATURE was hosted by Equal1 in Dublin on 23-24 January 2024. During two days, the consortium's world-leading experts gathered at Equal1 to engage in exciting and productive discussions on various topics related to superconductive cavities and coherent links, cryogenic wireless design, communication within Quantum Packages, Quantum systems architecture and Quantum simulations and benchmarking.
+
+<img src="/images/Quadrature_dublin.jpeg"/>
 + Kick-off meeting: The Kick-off Meeting of the Horizon Europe project QUADRATURE was held at UPV in Valencia on the 6-7 of July 2023. We had two days of very exciting discussions to kickstart the project with diversity of experts in the fields of quantum hardware, cryo-CMOS , NoCs, antennas for wireless on-chip communication, quantum computer architecture and quantum algorithms.
 
 <img src="/images/Kickoff.png"/>
 
-+ The second meeting of QUADRATURE was hosted by Equal1 in Dublin on 23-24 January 2024. During two days, the consortium's world-leading experts gathered at Equal1 to engage in exciting and productive discussions on various topics related to superconductive cavities and coherent links, cryogenic wireless design, communication within Quantum Packages, Quantum systems architecture and Quantum simulations and benchmarking.
 
-<img src="/images/Quadrature_dublin.jpeg"/>
