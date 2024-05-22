@@ -6,15 +6,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 image: 
 feature:
 ---
-<!---
-
--->
-<!---
-## SCALABLE MULTI-CHIP QUANTUM ARCHITECTURES ENABLED BY CRYOGENIC WIRELESS/QUANTUM-COHERENT NETWORK-IN-PACKAGE (QUADRATURE)
--->
-
-<img style="width:100%" src="images/banner-horizontal.png"/>
-<br /><br /><br /><br />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GCNVG9C4S9"></script>
 <script>
@@ -24,6 +15,15 @@ feature:
 
   gtag('config', 'G-GCNVG9C4S9');
 </script>
+<!---
+
+-->
+<!---
+## SCALABLE MULTI-CHIP QUANTUM ARCHITECTURES ENABLED BY CRYOGENIC WIRELESS/QUANTUM-COHERENT NETWORK-IN-PACKAGE (QUADRATURE)
+-->
+
+<img style="width:100%" src="images/banner-horizontal.png"/>
+<br /><br /><br /><br />
 
 QUADRATURE is an EU-funded project that aims to take a bold step towards **creating post-NISQ massive quantum processors through the development of scalable architectures with multiple Qcores interconnected via quantum-coherent links within the cryogenic package.**
 
