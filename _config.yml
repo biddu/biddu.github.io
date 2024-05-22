@@ -1,5 +1,5 @@
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
@@ -22,7 +22,7 @@ owner:
   #slack:          quadrature-project.slack.com
   
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: SoumyabrataDev
+  X: https://x.com/QUADRATURE_EU
   linkedin: https://www.linkedin.com/company/quadrature-eu/
   #google_scholar: _akXw8IAAAAJ
   #orcid: 0000-0002-0153-1095
