@@ -10,7 +10,7 @@ comments: false
 ## Workshops and Tutorials
 + E. Alarcon, C.G. Almudever and F. Garcia-Herrero, Workshop: Towards error correction within modular quantum computing architectures, IEEE International Conference on Quantum Computing and Engineering (QCE24), September 2024 (accepted).
   
-+ E. Alarcón, C.G. Almudever, F. Sebastiano, [“Towards Large Scale Quantum Computing Design”](https://www.date-conference.com/programme), Focus Session at DATE 2024, Valencia, Spain, 25-27 March 2023.
++ E. Alarcón, C.G. Almudever, F. Sebastiano, [“Towards Large Scale Quantum Computing Design”](https://www.date-conference.com/programme), Focus Session at DATE 2024, Valencia, Spain, 25-27 March 2024.
   
 + E. Alarcon, S. Abadal and C.G. Almudever, Workshop: [“Modular Quantum Computing Architectures: Bridging the Quantum Networks and Quantum Computing Communities”](https://qce.quantum.ieee.org/2023/workshops-program/), IEEE International Conference on Quantum Computing and Engineering (QCE23), September 2023.
   
