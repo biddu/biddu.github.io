@@ -16,6 +16,10 @@ The project codes are hosted in the github repository for the project. Here is t
 
 Public Deliverables will be posted here.
 
+## Leaflet
+
+The project's leaflet can be found [here](quadrature_leaflet.pdf).
+
 
 
 
