@@ -13,7 +13,7 @@ comments: false
 
 + E. Russo, M. Palesi, D. Patti, G. Ascia, V. Catania, [“Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures”](https://arxiv.org/html/2406.11452v1), arXiv preprint arXiv:2406.11452, 2024
 
-+ F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,”](https://arxiv.org/pdf/2404.18562) arxiv:2404.18562, 2024.
++ F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,”](https://arxiv.org/pdf/2404.18562), IEEE Communications Magazine, 2024.
 
 + A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,”](https://arxiv.org/pdf/2404.17325) arxiv:2404.17325, 2024.
 
