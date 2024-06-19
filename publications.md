@@ -31,7 +31,7 @@ comments: false
 
 ## Conferences
 
-+ E. Blokhina, “Quantum computing: challenges from the perspective of fundamental theory, modelling, and simulations” 21/03/2024  Scientific Lectures of the IEEE Technical Committee on Nonlinear Circuits and Systems
++ E. Blokhina, “Quantum computing: challenges from the perspective of fundamental theory, modelling, and simulations” 21/03/2024  Scientific Lectures of the IEEE Technical Committee on Nonlinear Circuits and Systems.
 
 + X. Wu, P.Giounanlis, C. Power, A. Sokolov, I. Kriekouki, M. Asker,  D. Leipold, I. Bashir, E. Blokhina “RF-Reflectometry Measurements of Charge Transitions in a Quantum Dot Array Fabricated on FDX-22 Process”, Silicon Quantum Electronics Workshop (SiQEW) 2024, 4-6 September 2024, Davos, Switzerland (accepted).
   
