@@ -9,17 +9,20 @@ comments: false
 
 
 ## Preprints
+
 + M. Palesi, E. Russo, D. Patti, G. Ascia, V. Catania, [“Assessing the Role of Communication in Scalable Multi-Core Quantum Architectures”](https://arxiv.org/pdf/2405.16275), arXiv preprint arXiv:2405.16275, 2024.
 
 + E. Russo, M. Palesi, D. Patti, G. Ascia, V. Catania, [“Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures”](https://arxiv.org/html/2406.11452v1), arXiv preprint arXiv:2406.11452, 2024
-
-+ F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,”](https://arxiv.org/pdf/2404.18562), IEEE Communications Magazine, 2024.
 
 + A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,”](https://arxiv.org/pdf/2404.17325) arxiv:2404.17325, 2024.
 
 + S.B. Rached, I. Lopez Agudo, S. Rodrigo, M. Bandic, S. Feld, H. van Someren, E. Alarcón, C.G. Almudever, and S. Abadal, [“Characterising the Inter-Core Qbit Traffic in Large-Scale Quantum Modular Architectures,”](https://arxiv.org/pdf/2310.01921) arXiv preprint arXiv:2310.01921, 2023.
 
 ## Journals
+
++ F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,”](https://arxiv.org/pdf/2404.18562), IEEE Communications Magazine, 2024.
+
+
 + C. Power, R. B. Staszewski, E. Blokhina “Charge Based Single Shot Readout Systems in Quantum Computing”, IEEE Circuits and Systems Magazine, 2024.
   
 + S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, [“Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,”](https://arxiv.org/pdf/2405.07812) IEEE Journal on Selected Areas in Communications, vol. 42, no. 8, 2024.
@@ -30,6 +33,10 @@ comments: false
   
 
 ## Conferences
+
++ P. Escofet, A. Gonzalvo, E. Alarcón, C. G. Almudéver, and S. Abadal, [“Route-Forcing: Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures,”](https://arxiv.org/pdf/2407.17306) Proceedings of the IEEE QCE’24, September 2024.
+
++ S. Ben Rached, S. Navarro-Reyes, J. Khan, C. G. Almudéver, E. Alarcón and S. Abadal, [“Benchmarking Emerging Cavity-Mediated Quantum Interconnect Technologies for Modular Quantum Computers”](https://arxiv.org/pdf/2407.15651), Proceedings of the IEEE QCE’24, September 2024.
 
 + E. Blokhina, “Quantum computing: challenges from the perspective of fundamental theory, modelling, and simulations” 21/03/2024  Scientific Lectures of the IEEE Technical Committee on Nonlinear Circuits and Systems.
 
