@@ -41,6 +41,8 @@ comments: false
 + Newsletter UPV Innovación: [https://mailchi.mp/upv/abierta](https://mailchi.mp/upv/abierta).
 
 ## Project News
++ 
+
 + The QUADRATURE partner Equal1 was included on the list of top 10 startups in Dublin compiled by WIRED UK. We do hope that the work developed in the QUADRATURE project on scalable quantum computers integrating multiple quantum cores with quantum-coherent interconnects will make them climb the list even higher!
   
 + Junaid Khan and Pau Escofet, two members of QUADRATURE project co-supervised by Eduard Alarcon, Sergi Abadal and Carmen G. Almudéver, have been awarded two prestigious scholarships to pursue their PhD studies in their group at the Universitat Politècnica de Catalunya (UPC). Junaid has been awarded with the Joan Oró scholarship from the Generalitat de Catalunya (local government in Catalunya), whereas Pau received a scholarship from Universitat Politècnica de Catalunya (UPC) sponsored by Santander Universidades.
