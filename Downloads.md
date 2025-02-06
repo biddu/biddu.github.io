@@ -17,6 +17,7 @@ The project codes are hosted in the github repository for the project. Here is t
 + [Deliverable 1.1: Cryogenic antenna model](D1.1.pdf)
 + [Deliverable 2.1: Specification Document](QUADRATURE_Deliverable_D2_1_SUBMITTED.pdf)
 + [Deliverable 5.1: Quantum Systems Specification](QUADRATURE_Deliverable_D5_1_SUBMITTED.pdf)
++ [Deliverable 6.1: Setup of public project website, communication channels and project logo](QUADRATURE_D6_1_SUBMITTED.pdf)
 
 ## Leaflet
 
