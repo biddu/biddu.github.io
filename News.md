@@ -41,7 +41,13 @@ comments: false
 + Newsletter UPV Innovación: [https://mailchi.mp/upv/abierta](https://mailchi.mp/upv/abierta).
 
 ## Project News
-+ 
++ The year 2025 started with another productive plenary meeting, this time in Barcelona. Our partners from Universitat Politècnica de Catalunya (UPC) and Barcelona Supercomputing Center (BSC) warmly welcomed all QUADRATURE international researchers who, over two days, shared intensive discussions about the latest advancements in their research efforts.
+
+<img src="/images/QUADRATURE_Spain.jpg"/>
+
++ QUADARTURE’s third plenary meeting took place in June 2024 at the École Polytechnique Fédérale de Lausanne (EPFL) campus at Neuchâtel, Switzerland. They wonderfully hosted our researchers, who travelled from across Europe to continue advancing this revolutionary project.
+
+<img src="/images/QUADRATURE_EPFL.jpg"/>
 
 + The QUADRATURE partner Equal1 was included on the list of top 10 startups in Dublin compiled by WIRED UK. We do hope that the work developed in the QUADRATURE project on scalable quantum computers integrating multiple quantum cores with quantum-coherent interconnects will make them climb the list even higher!
   
