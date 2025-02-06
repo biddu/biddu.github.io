@@ -14,7 +14,7 @@ The project codes are hosted in the github repository for the project. Here is t
 
 ## Documents
 
-+ [Deliverable 1.1: Cryogenic antenna model](QUADRATURE_D1.1 Cryogenic antenna model_SUBMITTED.pdf)
++ [Deliverable 1.1: Cryogenic antenna model](D1.1.pdf)
 
 ## Leaflet
 
