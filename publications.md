@@ -23,7 +23,7 @@ comments: false
 + F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,”](https://arxiv.org/pdf/2404.18562), IEEE Communications Magazine, 2024.
 
 
-+ C. Power, R. B. Staszewski, E. Blokhina “Charge Based Single Shot Readout Systems in Quantum Computing”, IEEE Circuits and Systems Magazine, 2024.
++ C. Power, R. B. Staszewski, E. Blokhina [“Charge Based Single Shot Readout Systems in Quantum Computing”](https://ieeexplore.ieee.org/document/10753314), IEEE Circuits and Systems Magazine, 2024.
   
 + S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, [“Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,”](https://arxiv.org/pdf/2405.07812) IEEE Journal on Selected Areas in Communications, vol. 42, no. 8, 2024.
   
