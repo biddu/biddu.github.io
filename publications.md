@@ -44,8 +44,6 @@ comments: false
 
 + S. Ben Rached, S. Navarro-Reyes, J. Khan, C. G. Almudéver, E. Alarcón and S. Abadal, [“Benchmarking Emerging Cavity-Mediated Quantum Interconnect Technologies for Modular Quantum Computers”](https://arxiv.org/pdf/2407.15651), Proceedings of the IEEE QCE’24, September 2024.
 
-+ E. Blokhina, “Quantum computing: challenges from the perspective of fundamental theory, modelling, and simulations” 21/03/2024  Scientific Lectures of the IEEE Technical Committee on Nonlinear Circuits and Systems.
-
 + X. Wu, P.Giounanlis, C. Power, A. Sokolov, I. Kriekouki, M. Asker,  D. Leipold, I. Bashir, E. Blokhina “RF-Reflectometry Measurements of Charge Transitions in a Quantum Dot Array Fabricated on FDX-22 Process”, Silicon Quantum Electronics Workshop (SiQEW) 2024, 4-6 September 2024, Davos, Switzerland (accepted).
   
 + A. Sokolov, C. Power, X. Wu, I. Kriekouki, M. Asker, P. Giounanlis, D. Leipold, I. Bashir2 and E. Blokhina, “Calibration of the Cryogenic Semiconductor Model for the Simulation of the Quantum Dots Fabricated on FDX-22 Process”, Silicon Quantum Electronics Workshop (SiQEW) 2024, 4-6 September 2024, Davos, Switzerland (accepted).
