@@ -27,6 +27,9 @@ comments: false
 
 +  F. Sebastiano, [” Cryo-CMOS Analog/Mixed-Signal Electronics for Quantum Computers”]( https://ieeexplore.ieee.org/document/10182164) ISCAS 2024 (International Symposium on Circuits and Systems), Singapore, 19th May 2024.
 
++  E. Blokhina, “Quantum computing: challenges from the perspective of fundamental theory, modelling, and simulations”, 21st March 2024, Scientific Lectures of the IEEE Technical Committee on Nonlinear Circuits and Systems.
+
+
 + C.G. Almudever, XIX Winter Seminar, Red de Computación de Altas Prestaciones sobre Arquitecturas Paralelas Heterogéneas (CAPAP-H) at the University of La Laguna (Tenerife, Spain), February 2024.
 
 + F. Sebastiano, “Cryo-CMOS for Quantum Error Correction and Beyond,” IceQubes 2024 (International Workshop on Cryogenic Electronics for Quantum Systems), Sidney, Australia, delivered online, 19 January 2024.
