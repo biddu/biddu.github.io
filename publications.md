@@ -10,8 +10,6 @@ comments: false
 
 ## Preprints
 
-+ M. Palesi, E. Russo, D. Patti, G. Ascia, V. Catania, [“Assessing the Role of Communication in Scalable Multi-Core Quantum Architectures”](https://arxiv.org/pdf/2405.16275), arXiv preprint arXiv:2405.16275, 2024.
-
 + E. Russo, M. Palesi, D. Patti, G. Ascia, V. Catania, [“Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures”](https://arxiv.org/html/2406.11452v1), arXiv preprint arXiv:2406.11452, 2024
 
 + A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,”](https://arxiv.org/pdf/2404.17325) arxiv:2404.17325, 2024.
@@ -19,6 +17,8 @@ comments: false
 + S.B. Rached, I. Lopez Agudo, S. Rodrigo, M. Bandic, S. Feld, H. van Someren, E. Alarcón, C.G. Almudever, and S. Abadal, [“Characterising the Inter-Core Qbit Traffic in Large-Scale Quantum Modular Architectures,”](https://arxiv.org/pdf/2310.01921) arXiv preprint arXiv:2310.01921, 2023.
 
 ## Journals
+
++ M. Bandic, P. le Henaff, A. Ovide, P. Escofet, S. Ben Rached, S. Rodrigo, H. van Someren, S. Abadal, E. Alarcón, C. G. Almudéver and S. Feld, [“Profiling quantum circuits for their efficient execution on single- and multi-core architectures”](https://arxiv.org/abs/2407.12640), Quantum Science and Technology, vol. 10, no. 1, 2025.
 
 + F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,”](https://arxiv.org/pdf/2404.18562), IEEE Communications Magazine, 2024.
 
@@ -33,6 +33,12 @@ comments: false
   
 
 ## Conferences
+
++ C.G. Almudéver, R. Wille, F. Sebastiano, N. Haider and E. Alarcon, “From Designing Quantum Processors to Large-Scale Quantum Computing Systems”, Design, Automation and Test in Europe Conference (DATE 2024), Valencia, Spain, March 2024.
+
++ E. Russo, M. Palesi, D. Patti, G. Ascia and V. Catania, [“Optimizing Qubit Assignment in Modular Quantum Systems via Attention-Driven Deep Reinforcement Learning”](https://arxiv.org/pdf/2406.11452), Design, Automation and Test in Europe Conference (DATE 2025), Lyon, France, March-April 2025.
+
++ M. Palesi, E. Russo, D. Patti, G. Ascia, V. Catania, [“Assessing the Role of Communication in Scalable Multi-Core Quantum Architectures”](https://arxiv.org/pdf/2405.16275), 17th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC-2024).
 
 + P. Escofet, A. Gonzalvo, E. Alarcón, C. G. Almudéver, and S. Abadal, [“Route-Forcing: Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures,”](https://arxiv.org/pdf/2407.17306) Proceedings of the IEEE QCE’24, September 2024.
 
