@@ -10,16 +10,22 @@ comments: false
 
 We’re excited to launch The Circle, a new webinar series from the QUADRATURE project!
 
+
 Why “The Circle”?
 Because it’s a place where people come together to share ideas and discuss, and a playful nod to the famous challenge of “squaring the circle,” directly tied to our project’s name.
 
+
 The first event will feature:
- 🎤 Speaker: Mathias Soeken, Microsoft
- 📌 Title: Quantum System Architecture for Utility Scale
- 🗓️ Date & Time: 27 October 2025, 10:00 AM (CET)
- 💻 Where: Online via Microsoft Teams
++ 🎤 Speaker: Mathias Soeken, Microsoft
++ 📌 Title: Quantum System Architecture for Utility Scale
++ 🗓️ Date & Time: 27 October 2025, 10:00 AM (CET)
++ 💻 Where: Online via Microsoft Teams
+
+  
 
 📩 Register now and join us: [Here](https://docs.google.com/forms/d/e/1FAIpQLSef0KpVy6myGaNtmHdZUkVFr6KDBsdhm8FcvMxuF2VohHQiFw/viewform)
+
+
 
 This is a unique opportunity to hear insights on how to scale quantum systems towards real-world utility. Don’t miss the chance to be part of the conversation — the more we bring into the Circle, the better!
 
