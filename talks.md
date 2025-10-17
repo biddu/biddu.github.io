@@ -16,7 +16,7 @@ Because it’s a place where people come together to share ideas and discuss, an
 
 
 The first event will feature:
-+ 🎤 Speaker: Mathias Soeken, Microsoft
++ 🎤 Speaker: [Mathias Soeken](https://www.linkedin.com/in/mathias-soeken-90280a122/), Microsoft
 + 📌 Title: Quantum System Architecture for Utility Scale
 + 🗓️ Date & Time: 27 October 2025, 10:00 AM (CET)
 + 💻 Where: Online via Microsoft Teams
