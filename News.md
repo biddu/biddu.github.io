@@ -41,6 +41,10 @@ comments: false
 + Newsletter UPV Innovación: [https://mailchi.mp/upv/abierta](https://mailchi.mp/upv/abierta).
 
 ## Project News
+
++ Three papers from QUADRATURE partners were presented at IEEE Quantum Week (QCE’25) in Albuquerque in September 2025. The works were presented by Sahar Ben Rached (UPC) and Enrico Russo (UNICT), both PhD students actively contributing to the project.
+<img src="/images/QCE25.jpg"/>
+
 + Progress Meeting VIII was held in July 2025 and warmly hosted by our partner Delft University of Technology (The Netherlands). Once again, the whole consortium gathered in person to discuss progress, challenges, and the ambitious road ahead.
 <img src="/images/QUADRATURE_TUD.jpg"/>
 
