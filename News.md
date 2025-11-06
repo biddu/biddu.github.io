@@ -41,6 +41,9 @@ comments: false
 + Newsletter UPV Innovación: [https://mailchi.mp/upv/abierta](https://mailchi.mp/upv/abierta).
 
 ## Project News
++ In January 2025, HiPEAC hosted the workshop "Wireless Interconnects for Scaling Classical and Quantum Computers", where the European Projects QUADRATURE and WINC presented their innovative approaches and potential impact on computing technologies. More info: [https://sites.google.com/view/scqc25].
+
+
 + The year 2025 started with another productive plenary meeting, this time in Barcelona. Our partners from Universitat Politècnica de Catalunya (UPC) and Barcelona Supercomputing Center (BSC) warmly welcomed all QUADRATURE international researchers who, over two days, shared intensive discussions about the latest advancements in their research efforts.
 
 <img src="/images/QUADRATURE_Spain.jpg"/>
