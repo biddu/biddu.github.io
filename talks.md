@@ -10,7 +10,7 @@ comments: false
 
 + **“The Circle”, QUADRATURE Webinar Series**
 
-Session 1: Mathias Soeken (Microsoft) presented “Quantum System Architecture for Utility Scale”. 27 October 2025 (Online). 
+    + Session 1: Mathias Soeken (Microsoft) presented “Quantum System Architecture for Utility Scale”. 27 October 2025 (Online). 
 
 ## Workshops and Tutorials
 + A. Das, M. Palesi: Organization of the workshop ["Wireless Interconnects for Scaling Classical and Quantum Computers"](https://sites.google.com/view/scqc25/) (SCQC 2025) in conjunction with HiPEAC 2025 Conference, Barcelona, Spain, January 21, 2025.
