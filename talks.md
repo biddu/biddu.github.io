@@ -13,6 +13,11 @@ comments: false
     + Session 1: Mathias Soeken (Microsoft) presented “Quantum System Architecture for Utility Scale”. 27 October 2025 (Online). 
 
 ## Workshops and Tutorials
++ S. Ben Rached, Z. Sun, G. Long, S. Rodrigo Munoz, C. Garcia Almudever, E. Alarcon, and S. Abadal: Workshop and panel session “Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures”. Oganised in conjunction with IEEE Quantum Week 2025 (QCE25). 5 September 2025.
+
++ F. Sebastiano: Delivered the tutorial “Fundamentals of Cryo-CMOS Circuits and Systems for Quantum Computing” at ISSCC 2025.
+
+
 + A. Das, M. Palesi: Organization of the workshop ["Wireless Interconnects for Scaling Classical and Quantum Computers"](https://sites.google.com/view/scqc25/) (SCQC 2025) in conjunction with HiPEAC 2025 Conference, Barcelona, Spain, January 21, 2025.
 
 + E. Alarcon, C.G. Almudever and F. Garcia-Herrero, Workshop: Towards error correction within modular quantum computing architectures, IEEE International Conference on Quantum Computing and Engineering (QCE24), September 2024 (accepted).
@@ -20,13 +25,21 @@ comments: false
 + F. Sebastiano, Co-organizing the online workshop: ["Quantum Computing and Technology Workshop"](https://resourcecenter.sscs.ieee.org/education/webinars/sscsweb4108), IEEE Solid-State Circuits Directions, May 4th-5th, 2024.
   
 + E. Alarcón, C.G. Almudever, F. Sebastiano, [“Towards Large Scale Quantum Computing Design”](https://www.date-conference.com/programme), Focus Session at DATE 2024, Valencia, Spain, 25-27 March 2024.
+
++ F. Sebastiano: Delivered the tutorial “Cryo-CMOS Analog/Mixed-Signal Electronics for Quantum Computers” within the ISCAS 2024 Workshop on Integrated Devices, Circuits and Systems for Quantum Computing. 19 January 2024.
   
 + E. Alarcon, S. Abadal and C.G. Almudever, Workshop: [“Modular Quantum Computing Architectures: Bridging the Quantum Networks and Quantum Computing Communities”](https://qce.quantum.ieee.org/2023/workshops-program/), IEEE International Conference on Quantum Computing and Engineering (QCE23), September 2023.
   
 ## Invited Talks, Lectures and Panels
+
+
 + E. Charbon, Training course: ["Quantum Computing/Sensing: Are Cryo-CMOS Circuits Essential"](https://indico.cern.ch/event/1441944/timetable/?view=standard), AIDAinnova Course on Quantum Applications, CERN, January 2025.
 
 +  F. Sebastiano, Tutorial: ["Fundamentals of Cryo-CMOS Circuits and Systems for Quantum Computing"](https://submissions.mirasmart.com/ISSCC2025/PDF/ISSCC2025AdvanceProgram.pdf), ISSCC 2025, February 2025.
+
++  S. Abadal: Invited Talk “Colder, Better, Faster, Smaller: Exploring the Limits of Wireless Networks”, Future of Communications III, University of Aalborg, 3 December 2024.
+
++  S. Abadal, Invited Talk “Accelerating Classical and Quantum Computing with Wireless Networks Inside Computing Packages”, University of Antwerp, 15 June 2024.
 
 +  F.Sebastiano, Keynote presentation: [“Cryogenic electrical interfaces for large-scale spin-qubit quantum processors”](https://wolte16.org/keynote-speakers) WOLTE 16 (Workshop on low-temperature electronics), Cagliari, Italy, 5 June 2024.
 
