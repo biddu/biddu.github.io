@@ -50,7 +50,7 @@ The QUADRATURE consortium consists of:
 + [University College Dublin (UCD, Ireland)](https://www.ucd.ie/)
 + [École Polytechnique Fédérale de Lausanne (EPFL, Switzerland)](https://www.epfl.ch/en/)
 
-<img src="/images/‎consortium_updated.png"/>
+<img src="/images/quadrature_consortium.001.jpeg"/>
 
 
 <div style="display: inline;">Page views: </div>
