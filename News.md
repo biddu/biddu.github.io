@@ -42,8 +42,14 @@ comments: false
 
 ## Project News
 
++ QUADRATURE launches its [YouTube channel](https://www.youtube.com/@QUADRATURE-PROJECT) with two video series:
+
+    + #WomenInQuantum: We highlight the inspiring stories of remarkable women to encourage girls and young women to pursue careers in STEM.
+
+    + #QuantumPhD: The youngest members of our team share their PhD/Postdoc journeys.
+
 + Three papers from QUADRATURE partners were presented at IEEE Quantum Week (QCE’25) in Albuquerque in September 2025. The works were presented by Sahar Ben Rached (UPC) and Enrico Russo (UNICT), both PhD students actively contributing to the project.
-<img src="/images/QCE25.jpg"/>
+<img src="/images/QCE25.png"/>
 
 + Progress Meeting VIII was held in July 2025 and warmly hosted by our partner Delft University of Technology (The Netherlands). Once again, the whole consortium gathered in person to discuss progress, challenges, and the ambitious road ahead.
 <img src="/images/QUADRATURE_TUD.jpg"/>
