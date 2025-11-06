@@ -10,6 +10,10 @@ comments: false
 
 ## Preprints
 
++ P. Escofet, S. Rodrigo, A. Garcia-Saez, E. Alarcon, S. Abadal, and C. G. Almudever, [“An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise Oriented to Large Scale Quantum System Design”](https://arxiv.org/abs/2503.06693), 21 April 2025.
+
++ M. Shahmoradi, K. K. Tokgoz, E. Alarcon, and S. Abadal, [“Power Modeling in mm-Wave and Terahertz CMOS Transmitters for Wireless Network-on-Chip”](https://arxiv.org/abs/2410.23378), November 2024.
+  
 + E. Russo, M. Palesi, D. Patti, G. Ascia, V. Catania, [“Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures”](https://arxiv.org/html/2406.11452v1), arXiv preprint arXiv:2406.11452, 2024
 
 + A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,”](https://arxiv.org/pdf/2404.17325) arxiv:2404.17325, 2024.
@@ -34,7 +38,12 @@ comments: false
 
 ## Conferences
 
-+ C.G. Almudéver, R. Wille, F. Sebastiano, N. Haider and E. Alarcon, “From Designing Quantum Processors to Large-Scale Quantum Computing Systems”, Design, Automation and Test in Europe Conference (DATE 2024), Valencia, Spain, March 2024.
++ P. Escofet, A. Semenov, N. Murphy, E. Blokhina, S. Abadal, E. Alarcon, and C. G. Almudever, [“Compilation Techniques for Spin Qubits in a Shuttling Bus Architecture”](https://arxiv.org/abs/2502.06263), 2025 IEEE International Symposium on Circuits and Systems (ISCAS).
+
++ E. Russo, E. Vinciguerra, M. Palesi, D. Patti, G. Ascia, and V. Catania, [“TeleSABRE: Layout Synthesis in Multi-Core Quantum Systems with Teleport Interconnect”](https://www.arxiv.org/abs/2505.08928), 2025 IEEE International Conference on Quantum Computing and Engineering (QCE).
+
++ PSR. Suance., R. Gupta, M. Palesi, and J. Jose, [“Decentralized Framework for Teleportation in Quantum Core Interconnects”](https://arxiv.org/abs/2505.11195), 2025 IEEE Computer Society Annual Symposium on VLSI.
+
 
 + E. Russo, M. Palesi, D. Patti, G. Ascia and V. Catania, [“Optimizing Qubit Assignment in Modular Quantum Systems via Attention-Driven Deep Reinforcement Learning”](https://arxiv.org/pdf/2406.11452), Design, Automation and Test in Europe Conference (DATE 2025), Lyon, France, March-April 2025.
 
@@ -46,11 +55,15 @@ comments: false
 
 + X. Wu, P.Giounanlis, C. Power, A. Sokolov, I. Kriekouki, M. Asker,  D. Leipold, I. Bashir, E. Blokhina “RF-Reflectometry Measurements of Charge Transitions in a Quantum Dot Array Fabricated on FDX-22 Process”, Silicon Quantum Electronics Workshop (SiQEW) 2024, 4-6 September 2024, Davos, Switzerland (accepted).
   
-+ A. Sokolov, C. Power, X. Wu, I. Kriekouki, M. Asker, P. Giounanlis, D. Leipold, I. Bashir2 and E. Blokhina, “Calibration of the Cryogenic Semiconductor Model for the Simulation of the Quantum Dots Fabricated on FDX-22 Process”, Silicon Quantum Electronics Workshop (SiQEW) 2024, 4-6 September 2024, Davos, Switzerland (accepted).
++ A. Sokolov, C. Power, X. Wu, I. Kriekouki, M. Asker, P. Giounanlis, D. Leipold, I. Bashir2 and E. Blokhina, “Calibration of the Cryogenic Semiconductor Model for the Simulation of the Quantum Dots Fabricated on FDX-22 Process”, Silicon Quantum Electronics Workshop (SiQEW) 2024, 4-6 September 2024, Davos, Switzerland.
   
 + A. Pastor, P. Escofet, S. Ben Rached, E. Alarcón, P. Barlet-Ros, S. Abadal, [“Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning,”](https://arxiv.org/pdf/2401.17976.pdf) Proceedings of the ISCAS ‘24, Singapore, May 2024.
 
 + S. Ben Rached, C. G. Almudéver, E. Alarcón, S. Abadal, [“Spatio-Temporal Characterization of Qubit Routing in Connectivity-Constrained Quantum Processors,”](https://arxiv.org/pdf/2402.00469.pdf) Proceedings of the ISCAS ‘24, Singapore, May 2024.
+
++ C.G. Almudéver, R. Wille, F. Sebastiano, N. Haider and E. Alarcon, “From Designing Quantum Processors to Large-Scale Quantum Computing Systems”, Design, Automation and Test in Europe Conference (DATE 2024), Valencia, Spain, March 2024.
+
++ E. Blokhina, “Quantum Computing: Challenges from the Perspective of Fundamental Theory, Modelling, and Simulations”, Scientific Lectures of the IEEE Technical Committee on Nonlinear Circuits and Systems, 21 March 2024.
 
 + F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Collective Communication Patterns using Time-Reversal Terahertz Links at the Chip Scale,”](https://arxiv.org/pdf/2309.01428) Proceedings of the IEEE GLOBECOM ‘23, Kuala Lumpur, Malaysia, December 2023.
 
