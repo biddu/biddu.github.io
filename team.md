@@ -35,7 +35,7 @@ comments: false
 |<img style="float:left;max-width:150px" src="/images/‎ucd.png"> | **University College Dublin (UCD):** The UCD team has a strong background on quantum-key distribution, design and development of optimisation models, meta-heuristic methods, deep reinforcement learning, network graph algorithms, communications channel modelling, and network resource allocation and optimisation. UCD PIs - [Dr. Prof. Bogdan Staszewski](http://www.bogdanst.com/) and [Dr. Avishek Nag](https://people.ucd.ie/avishek.nag).|
 
 
-|<img style="float:left;max-width:150px" src="/images/EPFL.png"> | **École Polytechnique Fédérale de Lausanne (EPFL):** The EPFL team has extensive cryo-CMOS experience with strong ties with TUD with whom they co-authored recent advances in cryogenic control of quantum processors. EPFL PI - [Dr. Prof. Edoardo Charbon](https://people.epfl.ch/edoardo.charbon?lang=en).|
+|<img style="float:left;max-width:150px" src="/images/EPFL_new.png"> | **École Polytechnique Fédérale de Lausanne (EPFL):** The EPFL team has extensive cryo-CMOS experience with strong ties with TUD with whom they co-authored recent advances in cryogenic control of quantum processors. EPFL PI - [Dr. Prof. Edoardo Charbon](https://people.epfl.ch/edoardo.charbon?lang=en).|
 
 <br/>
 
