@@ -42,11 +42,17 @@ comments: false
 
 ## Project News
 
++ **QUADRATURE launches “The Circle” Webinar Series**
+    + “The Circle” is a space designed for open discussions and idea sharing, inspired by the challenge of “squaring the circle”. The first session, held on 27 October 2025 (Online), featured Mathias Soeken from Microsoft, who presented “Quantum System Architecture for Utility Scale.” 
+
+This inaugural webinar offered valuable insights into scaling quantum systems towards real-world utility and marked the beginning of an engaging series of exchanges within our growing community.
+ <img src="/images/webinar1.png"/>
+
 + QUADRATURE launches its [YouTube channel](https://www.youtube.com/@QUADRATURE-PROJECT) with two video series:
 
     + #WomenInQuantum: We highlight the inspiring stories of remarkable women to encourage girls and young women to pursue careers in STEM.
-
     + #QuantumPhD: The youngest members of our team share their PhD/Postdoc journeys.
+    <img src="/images/QUADRATURE_YouTube.png"/>
 
 + Three papers from QUADRATURE partners were presented at IEEE Quantum Week (QCE’25) in Albuquerque in September 2025. The works were presented by Sahar Ben Rached (UPC) and Enrico Russo (UNICT), both PhD students actively contributing to the project.
 <img src="/images/QCE25.png"/>
