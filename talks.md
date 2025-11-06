@@ -6,29 +6,11 @@ tags:
 modified: 24-04-2017
 comments: false
 ---
-## Webinar 
+## Webinars 
 
-We’re excited to launch The Circle, a new webinar series from the QUADRATURE project!
++ **“The Circle”, QUADRATURE Webinar Series**
 
-
-Why “The Circle”?
-Because it’s a place where people come together to share ideas and discuss, and a playful nod to the famous challenge of “squaring the circle,” directly tied to our project’s name.
-
-
-The first event will feature:
-+ 🎤 Speaker: [Mathias Soeken](https://www.linkedin.com/in/mathias-soeken-90280a122/), Microsoft
-+ 📌 Title: Quantum System Architecture for Utility Scale
-+ 🗓️ Date & Time: 27 October 2025, 10:00 AM (CET)
-+ 💻 Where: Online via Microsoft Teams
-
-  
-
-📩 Register now and join us: [Here](https://docs.google.com/forms/d/e/1FAIpQLSef0KpVy6myGaNtmHdZUkVFr6KDBsdhm8FcvMxuF2VohHQiFw/viewform)
-
-
-
-This is a unique opportunity to hear insights on how to scale quantum systems towards real-world utility. Don’t miss the chance to be part of the conversation — the more we bring into the Circle, the better!
-
+++ Session 1: Mathias Soeken (Microsoft) presented “Quantum System Architecture for Utility Scale”. 27 October 2025 (Online). 
 
 ## Workshops and Tutorials
 + A. Das, M. Palesi: Organization of the workshop ["Wireless Interconnects for Scaling Classical and Quantum Computers"](https://sites.google.com/view/scqc25/) (SCQC 2025) in conjunction with HiPEAC 2025 Conference, Barcelona, Spain, January 21, 2025.
