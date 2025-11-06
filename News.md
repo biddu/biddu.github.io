@@ -41,6 +41,9 @@ comments: false
 + Newsletter UPV Innovación: [https://mailchi.mp/upv/abierta](https://mailchi.mp/upv/abierta).
 
 ## Project News
++ Progress Meeting VIII was held in July 2025 and warmly hosted by our partner Delft University of Technology (The Netherlands). Once again, the whole consortium gathered in person to discuss progress, challenges, and the ambitious road ahead.
+<img src="/images/QUADRATURE_TUD.jpg"/>
+
 + In January 2025, HiPEAC hosted the workshop "Wireless Interconnects for Scaling Classical and Quantum Computers", where the European Projects QUADRATURE and WINC presented their innovative approaches and potential impact on computing technologies. More info: [https://sites.google.com/view/scqc25].
 
 
