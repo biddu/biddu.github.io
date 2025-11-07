@@ -22,12 +22,12 @@ owner:
   #slack:          quadrature-project.slack.com
   
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: QUADRATURE_EU
+  #twitter: QUADRATURE_EU
   linkedin: https://www.linkedin.com/company/quadrature-eu/
   #google_scholar: _akXw8IAAAAJ
   #orcid: 0000-0002-0153-1095
   github: https://github.com/quadrature-eu
-  youtube: https://www.youtube.com/@QUADRATURE-PROJECT/
+  YouTube: https://www.youtube.com/@QUADRATURE-PROJECT/
   #publons: author/1307481/soumyabrata-dev
 # Do the favicons changes in the file _includes/_author-bio.html
 
