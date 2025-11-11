@@ -27,8 +27,9 @@ owner:
   #google_scholar: _akXw8IAAAAJ
   #orcid: 0000-0002-0153-1095
   github: https://github.com/quadrature-eu
-  social_links:
-  youtube: "https://www.youtube.com/@QUADRATURE-PROJECT"
+  youtube_username: QUADRATURE-PROJECT
+  #social_links:
+  #youtube: "https://www.youtube.com/@QUADRATURE-PROJECT"
   # Other existing links (e.g., GitHub, LinkedIn, email)
   #YouTube: https://www.youtube.com/@QUADRATURE-PROJECT/
   #publons: author/1307481/soumyabrata-dev
