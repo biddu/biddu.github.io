@@ -10,7 +10,7 @@ comments: false
 
 + **“The Circle”, QUADRATURE Webinar Series**
 
-    + Session 1: Mathias Soeken (Microsoft) presented “Quantum System Architecture for Utility Scale”. 27 October 2025 (Online). 
+    + Session 1: Mathias Soeken (Microsoft) presented “Quantum System Architecture for Utility Scale”. 27 October 2025 ([Online](https://www.youtube.com/watch?v=KuWnF3Onvl0&list=PLOkwQnHDdEQjJt8v335KSLZI7sbU_68uj&pp=0gcJCbAEOCosWNin)).
 
 ## Workshops and Tutorials
 + S. Ben Rached, Z. Sun, G. Long, S. Rodrigo Munoz, C. Garcia Almudever, E. Alarcon, and S. Abadal: Workshop and panel session “Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures”. Oganised in conjunction with IEEE Quantum Week 2025 (QCE25). 5 September 2025.
