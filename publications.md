@@ -38,6 +38,8 @@ comments: false
 
 ## Conferences
 
++ J. Khan, S. Navarro Reyes, S. Ben Rached, E. Alarcon, P. Haring Bolivar, C. G. Almudever, S. Abadal, ["Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing"](https://arxiv.org/abs/2502.11972). 2025 IEEE International Symposium on Circuits and Systems (ISCAS 2025).
+  
 + P. Escofet, A. Semenov, N. Murphy, E. Blokhina, S. Abadal, E. Alarcon, and C. G. Almudever, [“Compilation Techniques for Spin Qubits in a Shuttling Bus Architecture”](https://arxiv.org/abs/2502.06263), 2025 IEEE International Symposium on Circuits and Systems (ISCAS).
 
 + E. Russo, E. Vinciguerra, M. Palesi, D. Patti, G. Ascia, and V. Catania, [“TeleSABRE: Layout Synthesis in Multi-Core Quantum Systems with Teleport Interconnect”](https://www.arxiv.org/abs/2505.08928), 2025 IEEE International Conference on Quantum Computing and Engineering (QCE).
