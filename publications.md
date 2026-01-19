@@ -10,6 +10,10 @@ comments: false
 
 ## Preprints
 
++ V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, ["Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"](https://arxiv.org/pdf/2510.13627) Submitted to ISCAS 2026.
+
++ A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, ["28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"](https://arxiv.org/pdf/2510.16962) Submitted to EuCAP 2026.
+
 + P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, and C. G. Almudever, ["Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code"](https://arxiv.org/pdf/2510.17689), Submitted to Physical Review A.
   
 + P. Escofet, S. Rodrigo, A. Garcia-Saez, E. Alarcon, S. Abadal, and C. G. Almudever, [“An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise Oriented to Large Scale Quantum System Design”](https://arxiv.org/abs/2503.06693), 21 April 2025.
@@ -25,6 +29,14 @@ comments: false
 ## Journals
 
 + M. Palesi, E. Russo, G. Ascia, H. Rafique, D. Patti, V. Catania, S. Abadal, A. Das, P. Escofet, E. Alarcon, C.G. Almudéver, ["Assessing the Role of Communication in Modular Multi-Core Quantum Systems"](https://dl.acm.org/doi/epdf/10.1145/3779440), ACM Transactions on Design Automation of Embedded Systems, vol. 31, no. 2, 2026.
+
++ F. Sebastiano, [“Fundamentals of Cryo-CMOS Circuits and Systems for Quantum Computing: Challenges and prospects in interfacing future quantum computers,”](https://ieeexplore.ieee.org/document/11131422) IEEE Solid-State Circuits Magazine, vol. 17, no. 3, pp. 61–71, Summer 2025
+
++ A. Sokolov, X. Wu, C. Power, M. Asker, P. Giounanlis, I. Kriekouki, P. Hanos-Puskai, C. McGeough, I.Bashir, D. Redmond, D. Leipold, R. Bogdan Staszewski and E. Blokhina, ["Common-mode control and confinement inversion of electrostatically defined quantum dots in a commercial CMOS process"](https://www.nature.com/articles/s41598-025-28278-x), Nature Sci Rep, 2025.
+
++ C. Power, M. Moras, A. Sokolov, C. Rohrbacher, X. Wu, S.V. Amitonov, I. Kriekouki, A. Apra, P. Giounanlis, M. Asker, M. Harkin, P. Hanos-Puskai, P. Bisiaux, I. Bashir, D. Redmond, D. Leipold, R.B. Staszewski, B. Barry, N. Samkharadze, E. Blokhina, ["Fully-Tunable Tunnel-Coupled Quantum Dots and Charge Sensing in a Commercial 22nm FD-SOI Process"](https://arxiv.org/abs/2412.08422), IEEE Electron Device Letters, Vol. 46, No 10, pp 1913-1916, 2025.
+
++ A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, ["TRMAC: A Time-Reversal-based MAC Protocol for Wireless Networks within Computing Packages"](https://www.sciencedirect.com/science/article/pii/S1878778925000316?via%3Dihub), Nano Communication Networks, vol. 46, Dec. 2025.
   
 + M. Bandic, P. le Henaff, A. Ovide, P. Escofet, S. Ben Rached, S. Rodrigo, H. van Someren, S. Abadal, E. Alarcón, C. G. Almudéver and S. Feld, [“Profiling quantum circuits for their efficient execution on single- and multi-core architectures”](https://arxiv.org/abs/2407.12640), Quantum Science and Technology, vol. 10, no. 1, 2025.
 
@@ -41,6 +53,8 @@ comments: false
 
 ## Conferences
 
++ D. Garcín de la Llave, S. Abadal, and E. Alarcón, "Drive-Induced Crosstalk in Tunable Waveguide Coherent Quantum Links," Adaptative Quantum Circuits (AQC), Boston, USA, November 2025.
+  
 + S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcon, and S. Abadal, ["Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems"](https://arxiv.org/pdf/2505.08577), 2025 25th Anniversary International Conference on Transparent Optical Networks (ICTON).
 
 + P. Escofet, A. Das, S. Ben Rached, S. Rodrigo, J. Domingo, F. Sebastiano, M. Babaie, B. Keskin, E. Charbon, P. Haring Bolıvar, M. Palesi, E. Blokhina, B. Staszewski, A. Nag, A. Garcia-Saez, S. Abadal, E. Alarcon, and C. G. Almudever, ["On the Impact of Classical and Quantum
