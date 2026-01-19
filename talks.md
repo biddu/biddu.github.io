@@ -13,11 +13,11 @@ comments: false
     + Session 1: Mathias Soeken (Microsoft) presented “Quantum System Architecture for Utility Scale”. 27 October 2025 ([Online](https://www.youtube.com/watch?v=KuWnF3Onvl0&list=PLOkwQnHDdEQjJt8v335KSLZI7sbU_68uj&pp=0gcJCbAEOCosWNin)).
     + Session 2: Jean-Claude Besse (ETH Zurich) presents “Modularity at Various Length Scales in Superconducting Quantum Processors”. January 21, 2026, 10:00 AM CET ([online registration](https://forms.gle/i6wy5XUw2RQMibpPA)).
 
-## Workshops and Tutorials
-+ S. Ben Rached, Z. Sun, G. Long, S. Rodrigo Munoz, C. Garcia Almudever, E. Alarcon, and S. Abadal: Workshop and panel session “Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures”. Oganised in conjunction with IEEE Quantum Week 2025 (QCE25). 5 September 2025.
+## Workshops and Tutorials  
+
++ S. Ben Rached, Z. Sun, G. Long, S. Rodrigo Munoz, C. Garcia Almudever, E. Alarcon, and S. Abadal: Workshop and panel session “Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures”. Organised in conjunction with IEEE Quantum Week 2025 (QCE25), 5 September 2025.
 
 + F. Sebastiano: Delivered the tutorial “Fundamentals of Cryo-CMOS Circuits and Systems for Quantum Computing” at ISSCC 2025.
-
 
 + A. Das, M. Palesi: Organization of the workshop ["Wireless Interconnects for Scaling Classical and Quantum Computers"](https://sites.google.com/view/scqc25/) (SCQC 2025) in conjunction with HiPEAC 2025 Conference, Barcelona, Spain, January 21, 2025.
 
@@ -33,7 +33,14 @@ comments: false
   
 ## Invited Talks, Lectures and Panels
 
++ [Invited  Professional talk at Girsl4STEM event](https://www.gla.ac.uk/schools/engineering/research/conferences/emerging-quantum-technologies-2025/program/day2-towardsscalablequantumcomputers/).
 
++ Invited talk, C. G.Almudever, ["A System Perspective of Quantum Computing"](https://www.gla.ac.uk/schools/engineering/research/conferences/emerging-quantum-technologies-2025/program/day2-towardsscalablequantumcomputers/), Summer school 2025: Emerging Quantum Technologies, Kalamata, July 15, 2025. 
+
++ Keynote  talk, C. G.Almudever, ["Una visión sistemática de la Computacion Cuántica"](https://drive.google.com/file/d/1wVgl_n01K7U-nJjBbf5kMzlwHrpZQYKg/view), ITACA-WIICT,  July 10, 2025. 
+
++ Invited seminar, C. G.Almudever, ["Toward Scalable Quantum Computers: Transitioning from Monolithic to Modular Multicore Architectures"](https://drive.google.com/file/d/1wVgl_n01K7U-nJjBbf5kMzlwHrpZQYKg/view), TalentQ seminars, online, June 17, 2025.
+  
 + E. Charbon, Training course: ["Quantum Computing/Sensing: Are Cryo-CMOS Circuits Essential"](https://indico.cern.ch/event/1441944/timetable/?view=standard), AIDAinnova Course on Quantum Applications, CERN, January 2025.
 
 +  F. Sebastiano, Tutorial: ["Fundamentals of Cryo-CMOS Circuits and Systems for Quantum Computing"](https://submissions.mirasmart.com/ISSCC2025/PDF/ISSCC2025AdvanceProgram.pdf), ISSCC 2025, February 2025.
