@@ -34,9 +34,11 @@ comments: false
 + E. Alarcon, S. Abadal and C.G. Almudever, Workshop: [“Modular Quantum Computing Architectures: Bridging the Quantum Networks and Quantum Computing Communities”](https://qce.quantum.ieee.org/2023/workshops-program/), IEEE International Conference on Quantum Computing and Engineering (QCE23), September 2023.
   
 ## Talks, Lectures and Panels
-
+  
 + C.G. Almudever, [Conceiving and designing a track of quantum computing courses within diverse curricula at Universitat Politècnica de València](https://quantumeducationsummit.eu/program-quantum-education-summit/#tab-18783),  Quantum Education Summit, Barcelona, December 3-5, 2025.
   
++ F.Sebastiano, "Cryo-CMOS electrical interfaces for large-scale quantum computers", Delft, August 21st, 2025.
+
 + [Invited  Professional talk at Girsl4STEM event](https://www.gla.ac.uk/schools/engineering/research/conferences/emerging-quantum-technologies-2025/program/day2-towardsscalablequantumcomputers/).
 
 + Invited talk, C. G.Almudever, ["A System Perspective of Quantum Computing"](https://www.gla.ac.uk/schools/engineering/research/conferences/emerging-quantum-technologies-2025/program/day2-towardsscalablequantumcomputers/), Summer school 2025: Emerging Quantum Technologies, Kalamata, July 15, 2025. 
