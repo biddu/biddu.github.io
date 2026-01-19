@@ -53,6 +53,8 @@ comments: false
 
 ## Conferences
 
++ R. Bhattacharjee, S. Abadal, C. G. Almudever and E. Alarcón, [“Full-Stack Assessment Framework for Quantum Machine Learning Models,”](https://qtml2025.cqt.sg/poster-sessions/) Quantum Techniques in Machine Learning (QTML), Singapore, November 2025.
+  
 + D. Garcín de la Llave, S. Abadal, and E. Alarcón, "Drive-Induced Crosstalk in Tunable Waveguide Coherent Quantum Links," Adaptative Quantum Circuits (AQC), Boston, USA, November 2025.
   
 + S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcon, and S. Abadal, ["Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems"](https://arxiv.org/pdf/2505.08577), 2025 25th Anniversary International Conference on Transparent Optical Networks (ICTON).
