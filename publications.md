@@ -10,7 +10,7 @@ comments: false
 
 ## Preprints
 
-+ P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, and C. G. Almudever, ["Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code,"](https://arxiv.org/pdf/2510.17689), Submitted to Physical Review A.
++ P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, and C. G. Almudever, ["Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code"](https://arxiv.org/pdf/2510.17689), Submitted to Physical Review A.
   
 + P. Escofet, S. Rodrigo, A. Garcia-Saez, E. Alarcon, S. Abadal, and C. G. Almudever, [“An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise Oriented to Large Scale Quantum System Design”](https://arxiv.org/abs/2503.06693), 21 April 2025.
 
@@ -41,12 +41,17 @@ comments: false
 
 ## Conferences
 
-+ S. Ben Rached, Z. Sun, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcon, S. Abadal, ["Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures,"](https://arxiv.org/pdf/2508.13896), IEEE International Conference on Quantum Computing and Engineering 2025.
++ S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcon, and S. Abadal, ["Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems"](https://arxiv.org/pdf/2505.08577), 2025 25th Anniversary International Conference on Transparent Optical Networks (ICTON).
+
++ P. Escofet, A. Das, S. Ben Rached, S. Rodrigo, J. Domingo, F. Sebastiano, M. Babaie, B. Keskin, E. Charbon, P. Haring Bolıvar, M. Palesi, E. Blokhina, B. Staszewski, A. Nag, A. Garcia-Saez, S. Abadal, E. Alarcon, and C. G. Almudever, ["On the Impact of Classical and Quantum
+Communication Networks Upon Modular Quantum Computing Architecture System Performance"](https://arxiv.org/pdf/2507.08378), IEEE International Conference on Quantum Computing and Engineering 2025.
+
++ S. Ben Rached, Z. Sun, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcon, S. Abadal, ["Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures"](https://arxiv.org/pdf/2508.13896), IEEE International Conference on Quantum Computing and Engineering 2025.
   
 + R. Bhattacharjee, P. Escofet, S. Rodrigo, S. Abadal, C. G. Almudever, E. Alarcon, ["Characterizing Scaling Trends of Post-Compilation
-Circuit Resources for NISQ-era QML Models,"](https://arxiv.org/pdf/2509.11980), 2025 IEEE International Conference on Quantum Artificial Intelligence.
+Circuit Resources for NISQ-era QML Models"](https://arxiv.org/pdf/2509.11980), 2025 IEEE International Conference on Quantum Artificial Intelligence.
   
-+ M. Palesi, E. Russo, H. Rafique, G. Ascia, D. Patti, A. Das, S. Abadal, ["Instruction-Directed MAC for Efficient Classical Communication in Scalable Multi-Chip Quantum Systems,"](https://arxiv.org/abs/2510.27273), 18th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC-2025).
++ M. Palesi, E. Russo, H. Rafique, G. Ascia, D. Patti, A. Das, S. Abadal, ["Instruction-Directed MAC for Efficient Classical Communication in Scalable Multi-Chip Quantum Systems"](https://arxiv.org/abs/2510.27273), 18th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC-2025).
 
 + J. Khan, S. Navarro Reyes, S. Ben Rached, E. Alarcon, P. Haring Bolivar, C. G. Almudever, S. Abadal, ["Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing"](https://arxiv.org/abs/2502.11972). 2025 IEEE International Symposium on Circuits and Systems (ISCAS 2025).
   
