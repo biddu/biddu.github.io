@@ -8,9 +8,8 @@ comments: false
 ---
 ## Project News
 + QUADRATURE is pleased to present its official video. Watch it to discover our vision, objectives, and the team behind the project.
- 
-Link: https://youtu.be/z6VjQhyKt6w
-Image: attached ("Video QUADRATURE")
+      + Link: https://youtu.be/z6VjQhyKt6w
+
 
 <img src="images/VideoQUADRATURE.png"/>
 + **QUADRATURE launches “The Circle” Webinar Series**
