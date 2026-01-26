@@ -7,11 +7,12 @@ modified: 24-04-2017
 comments: false
 ---
 ## Project News
-+ QUADRATURE is pleased to present its official video. Watch it to discover our vision, objectives, and the team behind the project.
++ **QUADRATURE is pleased to present its official video**. Watch it to discover our vision, objectives, and the team behind the project.
       + Link: https://youtu.be/z6VjQhyKt6w
 
 
 <img src="images/VideoQUADRATURE.png"/>
+
 + **QUADRATURE launches “The Circle” Webinar Series**
     + “The Circle” is a space designed for open discussions and idea sharing, inspired by the challenge of “squaring the circle”. The first session, held on 27 October 2025 (Online), featured Mathias Soeken from Microsoft, who presented “Quantum System Architecture for Utility Scale.” This inaugural webinar offered valuable insights into scaling quantum systems towards real-world utility and marked the beginning of an engaging series of exchanges within our growing community.
  <img src="/images/webinar1.png"/>
