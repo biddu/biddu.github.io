@@ -9,7 +9,11 @@ comments: false
 ## Project News
 + **QUADRATURE is pleased to present its official video**. Watch it to discover our vision, objectives, and the team behind the project.
 
-  + Link: https://youtu.be/z6VjQhyKt6w
+<div class="video-container"> 
+  <iframe 
+    src="https://www.youtube.com/embed/z6VjQhyKt6w" allowfullscreen>
+  </iframe>
+</div>
 
     <img src="/images/YTVideo.png"/>
 
