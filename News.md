@@ -15,7 +15,7 @@ comments: false
   </iframe>
 </div>
 
-    <img src="/images/YTVideo.png"/>
+<img src="/images/YTVideo.png"/>
 
 + Progress Meeting X took place on 15–16 January 2026, hosted by Università di Catania in Sicily, Italy. The discussions during these two days highlighted the significant progress made so far and the exciting work still to come.
 
