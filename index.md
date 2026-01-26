@@ -52,7 +52,7 @@ The QUADRATURE consortium consists of:
 
 <img src="/images/quadrature_consortium.001.jpeg"/>
 
-<!---
+
 <div style="display: inline;">Page views: </div>
 <div id="sfcs8efdnt59gsgg1zhufmjd2cu1er41hwa" style="display: inline; margin-left: 5px;"></div>
 <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa&down=async" async></script>
@@ -61,4 +61,3 @@ The QUADRATURE consortium consists of:
     <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa" border="0" title="free counters" alt="free counters" style="display: inline;">
   </a>
 </noscript>
--->
