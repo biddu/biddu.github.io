@@ -20,7 +20,9 @@ If you want more information about the QUADRATURE project, please email us at in
 
 You can also follow us on [Linkedin](https://www.linkedin.com/company/quadrature-eu/) and [YouTube](https://www.youtube.com/@QUADRATURE-PROJECT).
 
-{% include youtube.html id="z6VjQhyKt6w" title="My video" %}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/KuWnF3Onvl0" allowfullscreen></iframe>
+</div>
 
 <!---
 Communication Research I  
