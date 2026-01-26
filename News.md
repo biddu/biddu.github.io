@@ -15,6 +15,8 @@ comments: false
 
 + Progress Meeting X took place on 15–16 January 2026, hosted by Università di Catania in Sicily, Italy. The discussions during these two days highlighted the significant progress made so far and the exciting work still to come.
 
+<img src="images/Group_photo_UNICT_Jan26.jpg"/>
+
 + **QUADRATURE launches “The Circle” Webinar Series**
     + “The Circle” is a space designed for open discussions and idea sharing, inspired by the challenge of “squaring the circle”. The first session, held on 27 October 2025 (Online), featured Mathias Soeken from Microsoft, who presented “Quantum System Architecture for Utility Scale.” This inaugural webinar offered valuable insights into scaling quantum systems towards real-world utility and marked the beginning of an engaging series of exchanges within our growing community.
  <img src="/images/webinar1.png"/>
