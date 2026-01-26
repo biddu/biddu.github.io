@@ -21,6 +21,7 @@ comments: false
 + **QUADRATURE launches “The Circle” Webinar Series**
     + “The Circle” is a space designed for open discussions and idea sharing, inspired by the challenge of “squaring the circle”. The first session, held on 27 October 2025 (Online), featured Mathias Soeken from Microsoft, who presented “Quantum System Architecture for Utility Scale.” This inaugural webinar offered valuable insights into scaling quantum systems towards real-world utility and marked the beginning of an engaging series of exchanges within our growing community. 
 <img src="/images/webinar1.png"/>
+{% include youtube.html id="KuWnF3Onvl0" %}
 
 + QUADRATURE launches its [YouTube channel](https://www.youtube.com/@QUADRATURE-PROJECT) with two video series:
 
