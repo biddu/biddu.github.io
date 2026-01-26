@@ -32,8 +32,19 @@ comments: false
 + QUADRATURE launches its [YouTube channel](https://www.youtube.com/@QUADRATURE-PROJECT) with two video series:
 
     + #WomenInQuantum: We highlight the inspiring stories of remarkable women to encourage girls and young women to pursue careers in STEM.
+      <div class="video-container"> 
+        <iframe 
+          src="https://www.youtube.com/embed/_LQMtwmK2IU" allowfullscreen>
+        </iframe>
+      </div>
+  
     + #QuantumPhD: The youngest members of our team share their PhD/Postdoc journeys.
-    <img src="/images/QUADRATURE_YouTube.png"/>
+      <div class="video-container"> 
+        <iframe 
+          src="https://www.youtube.com/embed/aV_W3_7AC4g" allowfullscreen>
+        </iframe>
+      </div>
+   <!-- <img src="/images/QUADRATURE_YouTube.png"/> -->
 
 + Three papers from QUADRATURE partners were presented at IEEE Quantum Week (QCE’25) in Albuquerque in September 2025. The works were presented by Sahar Ben Rached (UPC) and Enrico Russo (UNICT), both PhD students actively contributing to the project.
 <img src="/images/QCE25.png"/>
