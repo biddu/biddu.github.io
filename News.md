@@ -22,14 +22,7 @@ comments: false
     + “The Circle” is a space designed for open discussions and idea sharing, inspired by the challenge of “squaring the circle”. The first session, held on 27 October 2025 (Online), featured Mathias Soeken from Microsoft, who presented “Quantum System Architecture for Utility Scale.” This inaugural webinar offered valuable insights into scaling quantum systems towards real-world utility and marked the beginning of an engaging series of exchanges within our growing community. 
 
 <!-- YouTube embed -->
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/KuWnF3Onvl0"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
-  allowfullscreen>
-</iframe>
+<iframe width="1512" height="678" src="https://www.youtube.com/embed/KuWnF3Onvl0" title="Quantum System Architecture for Utility Scale | Mathias Soeken, Microsoft | #01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  <img src="/images/webinar1.png"/>
 
