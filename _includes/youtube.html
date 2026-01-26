@@ -7,9 +7,6 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
     allowfullscreen>
   </iframe>
-</div>
-
-<div class="video">
   <iframe
     src="https://www.youtube.com/embed/{{z6VjQhyKt6w}{% if include.start %}?start={{ include.start }}{% endif %}"
     title="{{ include.title | default: 'YouTube video' }}"
@@ -18,3 +15,4 @@
     allowfullscreen>
   </iframe>
 </div>
+
