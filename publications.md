@@ -15,6 +15,10 @@ comments: false
 + A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, ["28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"](https://arxiv.org/pdf/2510.16962) Submitted to EuCAP 2026.
 
 + P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, and C. G. Almudever, ["Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code"](https://arxiv.org/pdf/2510.17689), Submitted to Physical Review A.
+
++ X. Croot, K. Nowrouzi, C. Spitzer, C. G. Almudever, A. Blais, M. Carroll, J. Chow, D. Friedman, M. Tokunari, E. Charbon, V. Chidambaram, A. N. Cleland, D. Danovitch, J. Emerson, D. Gunnarsson, R. Laflamme, J. Martinis, R. McDermott, W. D. Oliver, M. Pioro-Ladriere, Y. Sato, H. Ohata, K. Semba, I. Siddiqi, ["Enabling Technologies for Scalable Superconducting Quantum Computing"](https://arxiv.org/pdf/2512.15001),  arXiv preprint arXiv:2512.15001, 2025.
+
++ B. Keskin, C. Afradi, S. Lovis, M. Palesi, P. Escofet, C. G. Almudever, E. Charbon, ["Lattice Surgery Aware Resource Analysis for the Mapping and Scheduling of Quantum Circuits for Scalable Modular Architectures"](https://www.arxiv.org/pdf/2511.21885), arXiv:2511.21885, 2025.
   
 + P. Escofet, S. Rodrigo, A. Garcia-Saez, E. Alarcon, S. Abadal, and C. G. Almudever, [“An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise Oriented to Large Scale Quantum System Design”](https://arxiv.org/abs/2503.06693), 21 April 2025.
 
