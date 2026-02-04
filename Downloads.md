@@ -19,6 +19,9 @@ The project codes are hosted in the github repository for the project. Here is t
 + [Deliverable 5.1: Quantum Systems Specification](QUADRATURE_Deliverable_D5_1_SUBMITTED.pdf)
 + [Deliverable 6.1: Setup of public project website, communication channels and project logo](QUADRATURE_D6_1_SUBMITTED.pdf)
 
+## Gender Balance Plan
++ [QUADRATURE Gender Balance Plan 2026](0_QUADRATURE Gender Balance Plan 2026.pdf) 
+
 ## Leaflet
 
 The project's leaflet can be found [here](quadrature_leaflet.pdf).
