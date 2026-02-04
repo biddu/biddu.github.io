@@ -20,7 +20,7 @@ The project codes are hosted in the github repository for the project. Here is t
 + [Deliverable 6.1: Setup of public project website, communication channels and project logo](QUADRATURE_D6_1_SUBMITTED.pdf)
 
 ## Gender Balance Plan
-+ [QUADRATURE Gender Balance Plan 2026](QUADRATURE Gender Balance Plan 2026.pdf) 
++ [QUADRATURE Gender Balance Plan 2026](Gender_Balance_Plan_2026) 
 
 ## Leaflet
 
