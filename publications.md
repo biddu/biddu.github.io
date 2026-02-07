@@ -31,7 +31,7 @@ comments: false
 + S.B. Rached, I. Lopez Agudo, S. Rodrigo, M. Bandic, S. Feld, H. van Someren, E. Alarcón, C.G. Almudever, and S. Abadal, [“Characterising the Inter-Core Qbit Traffic in Large-Scale Quantum Modular Architectures,”](https://arxiv.org/pdf/2310.01921) arXiv preprint arXiv:2310.01921, 2023.
 
 ## Journals
-
+  
 + M. Palesi, E. Russo, G. Ascia, H. Rafique, D. Patti, V. Catania, S. Abadal, A. Das, P. Escofet, E. Alarcon, C.G. Almudéver, ["Assessing the Role of Communication in Modular Multi-Core Quantum Systems"](https://dl.acm.org/doi/epdf/10.1145/3779440), ACM Transactions on Design Automation of Embedded Systems, vol. 31, no. 2, 2026.
 
 + F. Sebastiano, [“Fundamentals of Cryo-CMOS Circuits and Systems for Quantum Computing: Challenges and prospects in interfacing future quantum computers,”](https://ieeexplore.ieee.org/document/11131422) IEEE Solid-State Circuits Magazine, vol. 17, no. 3, pp. 61–71, Summer 2025
@@ -40,11 +40,17 @@ comments: false
 
 + C. Power, M. Moras, A. Sokolov, C. Rohrbacher, X. Wu, S.V. Amitonov, I. Kriekouki, A. Apra, P. Giounanlis, M. Asker, M. Harkin, P. Hanos-Puskai, P. Bisiaux, I. Bashir, D. Redmond, D. Leipold, R.B. Staszewski, B. Barry, N. Samkharadze, E. Blokhina, ["Fully-Tunable Tunnel-Coupled Quantum Dots and Charge Sensing in a Commercial 22nm FD-SOI Process"](https://arxiv.org/abs/2412.08422), IEEE Electron Device Letters, Vol. 46, No 10, pp 1913-1916, 2025.
 
++ M. Casals, V. Belis, E. F Combarro, E. Alarcón, S. Vallecorsa and M. Grossi, ["Guided graph compression for quantum graph neural networks,"](https://iopscience.iop.org/article/10.1088/2632-2153/adffe2/pdf) in Machine Learning: Science and Technology, 2025.
+
++ Masot-Llima, S.; Garcia-Saez, A. ["Advantages of Density in Tensor Network Geometries for Gradient-Based Training"](https://doi.org/10.3390/a18020070), Algorithms 2025, 18, 70.
+
 + A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, ["TRMAC: A Time-Reversal-based MAC Protocol for Wireless Networks within Computing Packages"](https://www.sciencedirect.com/science/article/pii/S1878778925000316?via%3Dihub), Nano Communication Networks, vol. 46, Dec. 2025.
   
 + M. Bandic, P. le Henaff, A. Ovide, P. Escofet, S. Ben Rached, S. Rodrigo, H. van Someren, S. Abadal, E. Alarcón, C. G. Almudéver and S. Feld, [“Profiling quantum circuits for their efficient execution on single- and multi-core architectures”](https://arxiv.org/abs/2407.12640), Quantum Science and Technology, vol. 10, no. 1, 2025.
 
 + F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, [“Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,”](https://arxiv.org/pdf/2404.18562), IEEE Communications Magazine, 2024.
+
++ A. Das, M. Palesi, J. Kim and P. Pratim Pande, ["Chip and Package-Scale Interconnects for General-Purpose, Domain-Specific, and Quantum Computing Systems—Overview, Challenges, and Opportunities,"](https://ieeexplore.ieee.org/document/10638543) IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 14, no. 3, pp. 354-370, Sept. 2024.
 
 + C. Power, R. B. Staszewski, E. Blokhina [“Charge Based Single Shot Readout Systems in Quantum Computing”](https://ieeexplore.ieee.org/document/10753314), IEEE Circuits and Systems Magazine, 2024.
   
